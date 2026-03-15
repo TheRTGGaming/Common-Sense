@@ -1,4 +1,16 @@
 {
-  "name": "Blocks",
-  "description": "All blocks added by the Common Sense mod."
+  "showJavaSources": true,
+  "sourcePath": "src/main/java/net/mcreator/commonsenseneo/",
+  "categories": [
+    {
+      "name": "Block Logic",
+      "id": "blocks",
+      "files": ["block/MudPathBlock", "block/BrickPathBlock"]
+    },
+    {
+      "name": "Procedures",
+      "id": "proc",
+      "files": ["procedures/QuagmireLogic", "procedures/ShavingLogic"]
+    }
+  ]
 }
