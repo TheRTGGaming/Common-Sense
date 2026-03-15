@@ -1,5 +1,7 @@
 {
   "id": "commonsense",
   "name": "Common Sense",
-  "description": "Documentation for the Common Sense mod."
+  "description": "Documentation for the Common Sense mod.",
+  "authors": ["The RTG Gaming"],
+  "license": "All Rights Reserved"
 }
