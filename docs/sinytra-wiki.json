@@ -1,7 +1,13 @@
 {
-  "id": "common_sense",
+  "id": "common-sense",
   "name": "Common Sense",
   "description": "Documentation for the Common Sense mod.",
   "authors": ["The RTG Gaming"],
-  "license": "All Rights Reserved"
+  "license": "All Rights Reserved",
+  "platforms": {
+    "curseforge": "common-sense"
+  },
+  "versions": {
+    "1.21.1": "main"
+  }
 }
