@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "b b",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:black_dye"
+    },
+    "b": {
+      "item": "common_sense:amber"
+    }
+  },
+  "result": {
+    "id": "common_sense:blank_disc",
+    "count": 1
+  }
+}

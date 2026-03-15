@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Invisibility",
+    "splashName": "Splash Potion of Invisibility",
+    "lingeringName": "Lingering Potion of Invisibility",
+    "arrowName": "Arrow of Invisibility",
+    "effects": [
+      {
+        "effect": {
+          "value": "INVISIBILITY"
+        },
+        "duration": 36000,
+        "infinite": false,
+        "amplifier": 1,
+        "ambient": false,
+        "showParticles": false
+      }
+    ]
+  }
+}

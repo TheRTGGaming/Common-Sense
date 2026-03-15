@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:splash_potion"
+    },
+    "b": {
+      "item": "common_sense:launcher"
+    },
+    "c": {
+      "item": "common_sense:prismarine_stick"
+    }
+  },
+  "result": {
+    "id": "common_sense:prismarine_spash_rod",
+    "count": 1
+  }
+}

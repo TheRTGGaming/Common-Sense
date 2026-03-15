@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/iron_bar_gate_open",
+  "textures": {
+    "all": "common_sense:block/jailbarmiddle",
+    "particle": "common_sense:block/jailbarmiddle",
+    "0": "common_sense:block/ironbarsgatetexture"
+  },
+  "render_type": "translucent"
+}

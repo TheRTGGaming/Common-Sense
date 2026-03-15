@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "common_sense:reinforced_upgrade"
+  },
+  "base": {
+    "item": "minecraft:netherite_hoe"
+  },
+  "addition": {
+    "item": "common_sense:ancient_ingot"
+  },
+  "result": {
+    "id": "common_sense:anchient_hoe"
+  }
+}

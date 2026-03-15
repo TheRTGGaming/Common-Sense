@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:triple_compressed_obsidan"
+    }
+  },
+  "result": {
+    "id": "common_sense:double_compressed_obsidan",
+    "count": 9
+  }
+}

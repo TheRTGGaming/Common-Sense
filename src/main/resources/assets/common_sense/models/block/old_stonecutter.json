@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/old_stonecutter_bottom",
+    "up": "common_sense:block/old_stonecutter_top",
+    "north": "common_sense:block/old_stonecutter_side",
+    "east": "common_sense:block/old_stonecutter_other_side",
+    "south": "common_sense:block/old_stonecutter_side",
+    "west": "common_sense:block/old_stonecutter_other_side",
+    "particle": "common_sense:block/old_stonecutter_bottom"
+  },
+  "render_type": "solid"
+}

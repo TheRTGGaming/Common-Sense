@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:magenta_dye"
+    },
+    "b": {
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": {
+    "id": "minecraft:blue_dye",
+    "count": 1
+  }
+}

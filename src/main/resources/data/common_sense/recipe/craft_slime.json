@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "tag": "cs_foods:salt"
+    },
+    "c": {
+      "item": "minecraft:kelp"
+    },
+    "d": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "minecraft:slime_ball",
+    "count": 4
+  }
+}

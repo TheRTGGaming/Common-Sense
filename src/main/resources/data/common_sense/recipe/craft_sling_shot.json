@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " a ",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "common_sense:launcher"
+    }
+  },
+  "result": {
+    "id": "common_sense:sling_shot",
+    "count": 1
+  }
+}

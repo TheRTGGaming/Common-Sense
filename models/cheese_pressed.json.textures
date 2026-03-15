@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "cauldron_bottem",
+        "1": "cauldron_legs_bottem",
+        "2": "cauldron_side",
+        "3": "cauldron_top",
+        "4": "piston_side",
+        "5": "piston_top",
+        "6": "woodplank",
+        "7": "piston_rod",
+        "missing": "",
+        "8": "piston1",
+        "9": "piston_middle"
+      },
+      "name": "default"
+    }
+  }
+}

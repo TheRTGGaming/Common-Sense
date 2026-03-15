@@ -1,0 +1,48 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "woodbattleaxe",
+    "customModelName": "wood_battle_axe:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Wood Battle Axe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:BattleAxes"
+      }
+    ],
+    "efficiency": 3.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 80,
+    "repairItems": [
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.LOG2"
+      },
+      {
+        "value": "Blocks.MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.CHERRY_LOG"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

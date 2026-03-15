@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:dark_oak_leaves_wall",
+    "common_sense:spruce_leaves_wall",
+    "common_sense:sponge_stem",
+    "common_sense:birch_leaves_wall",
+    "common_sense:a_cluff_of_so_much_clovers",
+    "common_sense:azalea_leaves_wall",
+    "common_sense:a_cluff_of_more_clovers",
+    "common_sense:a_cluff_of_clovers",
+    "common_sense:jungle_leaves_wall",
+    "common_sense:cherry_leaves_wall",
+    "common_sense:acacia_leaves_wall",
+    "common_sense:oak_leaves_wall",
+    "common_sense:mangrove_leaves_wall",
+    "common_sense:a_cluff_of_even_more_clovers"
+  ]
+}

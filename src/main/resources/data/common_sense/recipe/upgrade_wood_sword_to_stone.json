@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "common_sense:stone_upgrade_template"
+  },
+  "base": {
+    "item": "minecraft:wooden_sword"
+  },
+  "addition": {
+    "item": "minecraft:cobblestone"
+  },
+  "result": {
+    "id": "minecraft:stone_sword"
+  }
+}

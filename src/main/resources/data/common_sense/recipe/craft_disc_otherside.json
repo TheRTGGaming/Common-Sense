@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a b",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cyan_dye"
+    },
+    "b": {
+      "item": "minecraft:lime_dye"
+    },
+    "c": {
+      "item": "common_sense:blank_disc"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_otherside",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz_slab"
+    },
+    "b": {
+      "item": "common_sense:amber"
+    }
+  },
+  "result": {
+    "id": "minecraft:quartz_block",
+    "count": 1
+  }
+}

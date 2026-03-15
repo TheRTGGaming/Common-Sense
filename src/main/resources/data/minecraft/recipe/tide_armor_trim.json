@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "armortrims",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "b b",
+    "b b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:diamond"
+    },
+    "b": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:tide_armor_trim_smithing_template",
+    "count": 1
+  }
+}

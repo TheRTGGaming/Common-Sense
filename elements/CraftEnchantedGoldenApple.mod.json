@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      },
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "name": "craft_enchanted_golden_apple",
+    "namespace": "mod"
+  }
+}

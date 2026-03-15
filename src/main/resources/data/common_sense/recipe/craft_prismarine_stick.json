@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "id": "common_sense:prismarine_stick",
+    "count": 1
+  }
+}

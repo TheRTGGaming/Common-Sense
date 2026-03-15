@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:raw_ancient_ore",
+    "common_sense:iron_dust",
+    "common_sense:steel_powder"
+  ]
+}

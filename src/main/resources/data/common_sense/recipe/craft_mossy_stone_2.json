@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:stone_brick"
+    },
+    "b": {
+      "item": "minecraft:moss_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:mossy_stone_bricks",
+    "count": 1
+  }
+}

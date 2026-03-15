@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:magenta_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:magenta_concrete_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 42,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "common_sense:diorite_iron_ore"
+  },
+  "result": {
+    "id": "minecraft:iron_ingot"
+  }
+}

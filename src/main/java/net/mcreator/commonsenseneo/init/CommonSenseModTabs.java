@@ -1,0 +1,422 @@
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.commonsenseneo.init;
+
+import net.neoforged.neoforge.registries.DeferredRegister;
+import net.neoforged.neoforge.registries.DeferredHolder;
+
+import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.item.Items;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.CreativeModeTab;
+import net.minecraft.network.chat.Component;
+import net.minecraft.core.registries.Registries;
+
+import net.mcreator.commonsenseneo.CommonSenseMod;
+
+public class CommonSenseModTabs {
+	public static final DeferredRegister<CreativeModeTab> REGISTRY = DeferredRegister.create(Registries.CREATIVE_MODE_TAB, CommonSenseMod.MODID);
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> AMBER_TOOLS = REGISTRY.register("amber_tools",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.amber_tools")).icon(() -> new ItemStack(CommonSenseModItems.AMBER.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.AMBER.get());
+				tabData.accept(CommonSenseModBlocks.BLOCK_OF_AMBER.get().asItem());
+				tabData.accept(CommonSenseModItems.AMBER_ARMOR_HELMET.get());
+				tabData.accept(CommonSenseModItems.AMBER_ARMOR_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.AMBER_ARMOR_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.AMBER_ARMOR_BOOTS.get());
+				tabData.accept(CommonSenseModItems.AMBER_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.AMBER_SHOVEL.get());
+				tabData.accept(CommonSenseModItems.AMBER_AXE.get());
+				tabData.accept(CommonSenseModItems.AMBER_HOE.get());
+				tabData.accept(CommonSenseModItems.AMBER_SWORD.get());
+			}).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> RAW_ORES = REGISTRY.register("raw_ores",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.raw_ores")).icon(() -> new ItemStack(CommonSenseModBlocks.AMBER_ORE.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModBlocks.AMBER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DEEP_SLATE_AMBER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.END_FRAGMENT_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.NETHERACK_IRON_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.NITER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.SULFUR_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DEEPSLATE_NITER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DEEP_SLATE_SULFUR_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_IRON_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_DIAMOND_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_GOLD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_LAPIS_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_EMERALD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_REDSTONE_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_COAL_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ANDESITE_COPPER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_IRON_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_COPPER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_GOLD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_DIAMOND_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_EMERALD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_LAPIS_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_REDSTONE_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DIORITE_COAL_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_IRON_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_GOLD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_COPPER_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_DIAMOND_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_EMERALD_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_REDSTONE_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_COAL_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRANITE_LAPIS_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.RUBY_ORE.get().asItem());
+			}).withTabsBefore(AMBER_TOOLS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> COMMON_SENSE = REGISTRY.register("common_sense",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.common_sense")).icon(() -> new ItemStack(CommonSenseModItems.LIGHT_BULB.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.LIGHT_BULB.get());
+				tabData.accept(CommonSenseModItems.SAW_BLADE.get());
+				tabData.accept(CommonSenseModItems.END_FRAGMENT.get());
+				tabData.accept(CommonSenseModItems.RAW_ANCIENT_ORE.get());
+				tabData.accept(CommonSenseModItems.ANCIENT_INGOT.get());
+				tabData.accept(CommonSenseModItems.NITER.get());
+				tabData.accept(CommonSenseModBlocks.BLOCK_OF_NITER.get().asItem());
+				tabData.accept(CommonSenseModItems.SULFUR.get());
+				tabData.accept(CommonSenseModBlocks.BLOCK_OF_SULFUR.get().asItem());
+				tabData.accept(CommonSenseModBlocks.STONE_DOOR.get().asItem());
+				tabData.accept(CommonSenseModItems.CHAIN_RING.get());
+				tabData.accept(CommonSenseModItems.PRISMARINE_STICK.get());
+				tabData.accept(CommonSenseModItems.SPAWN_CORE.get());
+				tabData.accept(CommonSenseModItems.ROTTEN_LEATHER.get());
+				tabData.accept(CommonSenseModItems.ENCHANTED_GOLDEN_INGOT.get());
+				tabData.accept(CommonSenseModItems.SLIME_STRING.get());
+				tabData.accept(CommonSenseModItems.NETHERITE_NUGGET.get());
+				tabData.accept(CommonSenseModBlocks.QUICK_STEP.get().asItem());
+				tabData.accept(CommonSenseModItems.SOULS.get());
+				tabData.accept(CommonSenseModItems.SYTHE.get());
+				tabData.accept(CommonSenseModItems.BLANK_SPAWN_EGG.get());
+				tabData.accept(CommonSenseModItems.WITHER_BONE.get());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_IRON_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_GOLD_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_DIAMOND_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_EMERALD_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_NETHERITE_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_COBBLE_STONE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DOUBLE_COMPRESSED_COBBLE_STONE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.TRIPLE_COMPRESSED_COBBLE_STONE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.QUADRUPLE_COMPRESSED_COBBLE_STONE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_NETHERACK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_ENDSTONE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_OBSIDAN.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DOUBLE_COMPRESSED_OBSIDAN.get().asItem());
+				tabData.accept(CommonSenseModBlocks.TRIPLE_COMPRESSED_OBSIDAN.get().asItem());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_COAL_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DOUBLE_COMPRESSED_COAL_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.INRICHED_COAL_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModItems.BLANK_DISC.get());
+				tabData.accept(CommonSenseModBlocks.COMPRESSED_TNT.get().asItem());
+				tabData.accept(CommonSenseModItems.NETHER_STAR_FRAGMENT.get());
+				tabData.accept(CommonSenseModItems.ROTTEN_ARMOR_HELMET.get());
+				tabData.accept(CommonSenseModItems.ROTTEN_ARMOR_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.ROTTEN_ARMOR_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.ROTTEN_ARMOR_BOOTS.get());
+				tabData.accept(CommonSenseModBlocks.SNOW_DIRT.get().asItem());
+				tabData.accept(CommonSenseModItems.CHAIN_MESH.get());
+				tabData.accept(CommonSenseModBlocks.CHAIN_FENCE.get().asItem());
+				tabData.accept(CommonSenseModItems.SIEVE.get());
+				tabData.accept(CommonSenseModBlocks.LIGHT_BULB_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIGHT_BULB_BLOCK_ON.get().asItem());
+				tabData.accept(CommonSenseModItems.IMAGEICON.get());
+				tabData.accept(CommonSenseModBlocks.MARBLE_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MARBLE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MARBLE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MARBLE_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MARBLE_PRESSURE_PLATE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MARBLE_BUTTON.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OAK_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.CHERRY_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MANGROVE_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.JUNGLE_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BIRCH_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ACACIA_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DARK_OAK_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.SPRUCE_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.AZALEA_LEAVES_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BURNT_LOG.get().asItem());
+				tabData.accept(CommonSenseModBlocks.STRIPPED_BURNT_LOG.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OAK_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OAK_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.IRON_BARS_GATE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.IRON_BARS_GATE_OPEN.get().asItem());
+				tabData.accept(CommonSenseModBlocks.SPONGE_STEM.get().asItem());
+				tabData.accept(CommonSenseModItems.GLASS_BALL_OF_WATER.get());
+				tabData.accept(CommonSenseModItems.GLASS_BALL.get());
+				tabData.accept(CommonSenseModItems.BLAZE_CHARGER.get());
+				tabData.accept(CommonSenseModItems.ENDER_PEARL_ROD.get());
+				tabData.accept(CommonSenseModItems.PRISMARINE_SPASH_ROD.get());
+				tabData.accept(CommonSenseModBlocks.CLOVER_IN_A_POT.get().asItem());
+				tabData.accept(CommonSenseModBlocks.VERTICAL_CHAIN.get().asItem());
+				tabData.accept(CommonSenseModBlocks.IRON_TOWER.get().asItem());
+				tabData.accept(CommonSenseModBlocks.IRON_TOWER_TOP.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ENDSTONE_NETHERITE_ORE.get().asItem());
+				tabData.accept(CommonSenseModItems.RAW_NETHERITE.get());
+				tabData.accept(CommonSenseModItems.STONE_UPGRADE_TEMPLATE.get());
+				tabData.accept(CommonSenseModBlocks.BERYLLIUM_ORE.get().asItem());
+				tabData.accept(CommonSenseModItems.PIG_HIDE.get());
+				tabData.accept(CommonSenseModItems.STONE_HAMMER.get());
+				tabData.accept(CommonSenseModBlocks.IRON_TOWER_POWERED.get().asItem());
+				tabData.accept(CommonSenseModBlocks.IRON_TOWER_TOP_POWERED.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OLD_STONECUTTER.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GLASS_FRAME.get().asItem());
+				tabData.accept(CommonSenseModItems.FECES.get());
+				tabData.accept(CommonSenseModItems.FERTILIZER.get());
+				tabData.accept(CommonSenseModBlocks.BLOCK_OF_FERTILIZER.get().asItem());
+				tabData.accept(CommonSenseModItems.FLINT_SHEARS.get());
+				tabData.accept(CommonSenseModBlocks.DIRT_PATH_LAYER_1.get().asItem());
+				tabData.accept(CommonSenseModItems.DIRT_BALL.get());
+			}).withTabsBefore(RAW_ORES.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> ANCIENT_TOOLS = REGISTRY.register("ancient_tools",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.ancient_tools")).icon(() -> new ItemStack(CommonSenseModItems.ANCIENT_INGOT.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModBlocks.BLOCK_OF_ANCIENT_ORE.get().asItem());
+				tabData.accept(CommonSenseModItems.ANCIENT_ARMOR_HELMET.get());
+				tabData.accept(CommonSenseModItems.ANCIENT_ARMOR_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.ANCIENT_ARMOR_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.ANCIENT_ARMOR_BOOTS.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_SWORD.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_AXE.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_HOE.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_SHOVEL.get());
+				tabData.accept(CommonSenseModBlocks.ANCIENT_ORE.get().asItem());
+				tabData.accept(CommonSenseModItems.REINFORCED_UPGRADE.get());
+			}).withTabsBefore(COMMON_SENSE.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> STONE_ARMOR = REGISTRY.register("stone_armor",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.stone_armor")).icon(() -> new ItemStack(CommonSenseModItems.STONE_BRICK.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.STONE_BRICK.get());
+				tabData.accept(CommonSenseModItems.ROCK.get());
+				tabData.accept(CommonSenseModItems.LAUNCHER.get());
+				tabData.accept(CommonSenseModItems.STONE_ARMORTEXUTRE_HELMET.get());
+				tabData.accept(CommonSenseModItems.STONE_ARMORTEXUTRE_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.STONE_ARMORTEXUTRE_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.STONE_ARMORTEXUTRE_BOOTS.get());
+				tabData.accept(CommonSenseModBlocks.HOLLOW_STONE_BRICK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.HOLLOW_STONE_BRICK_LADDER.get().asItem());
+				tabData.accept(CommonSenseModItems.SLING_SHOT.get());
+			}).withTabsBefore(ANCIENT_TOOLS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> BATTLE_AXES = REGISTRY.register("battle_axes",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.battle_axes")).icon(() -> new ItemStack(CommonSenseModItems.ANCHIENT_BATTLE_AXE.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.WOOD_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.STONE_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.IRON_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.GOLD_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.DIAMOND_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.NETHERITE_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.ANCHIENT_BATTLE_AXE.get());
+				tabData.accept(CommonSenseModItems.WOOD_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.STONE_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.IRON_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.GOLD_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.DIAMOND_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.NETHERITE_AXE_HEAD.get());
+				tabData.accept(CommonSenseModItems.ANCIENT_AXE_HEAD.get());
+			}).withTabsBefore(STONE_ARMOR.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> ELYTRA_ITEMS = REGISTRY.register("elytra_items",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.elytra_items")).icon(() -> new ItemStack(Items.ELYTRA)).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.ELYTRA_MIDDLE.get());
+				tabData.accept(CommonSenseModItems.ELYTRA_LEFT_TOP_WING.get());
+				tabData.accept(CommonSenseModItems.ELYTRA_LEFT_BOTTOM_WING.get());
+				tabData.accept(CommonSenseModItems.ELYTRA_RIGHT_TOP_WING.get());
+				tabData.accept(CommonSenseModItems.ELYTRA_RIGHT_BOTTOM_WING.get());
+			}).withTabsBefore(BATTLE_AXES.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> TREE_BARKS = REGISTRY.register("tree_barks",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.tree_barks")).icon(() -> new ItemStack(CommonSenseModItems.OAK_BARK.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.OAK_BARK.get());
+				tabData.accept(CommonSenseModItems.ACACIA_BARK.get());
+				tabData.accept(CommonSenseModItems.BIRCH_BARK.get());
+				tabData.accept(CommonSenseModItems.CHERRY_BARK.get());
+				tabData.accept(CommonSenseModItems.CRIMSON_BARK.get());
+				tabData.accept(CommonSenseModItems.DARK_OAK_BARK.get());
+				tabData.accept(CommonSenseModItems.JUNGLE_BARK.get());
+				tabData.accept(CommonSenseModItems.MANGROVE_BARK.get());
+				tabData.accept(CommonSenseModItems.SPRUCE_BARK.get());
+				tabData.accept(CommonSenseModItems.WARP_BARK.get());
+				tabData.accept(CommonSenseModBlocks.OAK_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModItems.CHARED_BARK.get());
+				tabData.accept(CommonSenseModBlocks.BIRCH_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ACACIA_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.SPRUCE_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.CHERRY_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.DARK_OAK_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.JUNGLE_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MANGROVE_BARK_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModItems.ACACIA_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.ACACIA_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.ACACIA_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.ACACIA_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.BIRCH_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.BIRCH_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.BIRCH_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.BIRCH_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.CHERRY_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.CHERRY_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.CHERRY_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.CHERRY_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.DARKOAK_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.DARKOAK_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.DARKOAK_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.DARKOAK_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.JUNGLE_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.JUNGLE_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.JUNGLE_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.JUNGLE_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.MANGROVE_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.MANGROVE_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.MANGROVE_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.MANGROVE_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.OAK_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.OAK_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.OAK_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.OAK_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.SPRUCE_WOOD_HELMET.get());
+				tabData.accept(CommonSenseModItems.SPRUCE_WOOD_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.SPRUCE_WOOD_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.SPRUCE_WOOD_BOOTS.get());
+				tabData.accept(CommonSenseModItems.PALE_OAK_BARK.get());
+			}).withTabsBefore(ELYTRA_ITEMS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> STEEL = REGISTRY.register("steel",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.steel")).icon(() -> new ItemStack(CommonSenseModItems.STEEL_INGOT.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.STEEL_POWDER.get());
+				tabData.accept(CommonSenseModItems.STEEL_INGOT.get());
+				tabData.accept(CommonSenseModItems.STEEL_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.STEEL_AXE.get());
+				tabData.accept(CommonSenseModItems.STEEL_HOE.get());
+				tabData.accept(CommonSenseModItems.STEEL_SHOVEL.get());
+				tabData.accept(CommonSenseModItems.STEEL_SWORD.get());
+				tabData.accept(CommonSenseModItems.STEEL_ARMOR_HELMET.get());
+				tabData.accept(CommonSenseModItems.STEEL_ARMOR_CHESTPLATE.get());
+				tabData.accept(CommonSenseModItems.STEEL_ARMOR_LEGGINGS.get());
+				tabData.accept(CommonSenseModItems.STEEL_ARMOR_BOOTS.get());
+				tabData.accept(CommonSenseModBlocks.STEEL_BLOCK.get().asItem());
+			}).withTabsBefore(TREE_BARKS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> OBSIDIAN_TOOLS = REGISTRY.register("obsidian_tools",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.obsidian_tools")).icon(() -> new ItemStack(Blocks.OBSIDIAN)).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.OBSIDIAN_SHARD.get());
+				tabData.accept(CommonSenseModItems.OBSIDIAN_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.OBSIDIAN_SWORD.get());
+				tabData.accept(CommonSenseModItems.OBSIDIAN_AXE.get());
+				tabData.accept(CommonSenseModItems.OBSIDIAN_HOE.get());
+				tabData.accept(CommonSenseModItems.OBSIDIAN_SHOVEL.get());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_PRESSURE_PLATE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_WALL.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_BUTTON.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_BRICK.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_BRICK_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.OBSIDIAN_BRICK_SLAB.get().asItem());
+			}).withTabsBefore(STEEL.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> POTION_ICONS = REGISTRY.register("potion_icons",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.potion_icons")).icon(() -> new ItemStack(CommonSenseModItems.IMAGEICON.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.STRENGTH_ICON.get());
+				tabData.accept(CommonSenseModItems.FIRE_RESISTANCE_ICON.get());
+				tabData.accept(CommonSenseModItems.HARMING_ICON.get());
+				tabData.accept(CommonSenseModItems.HEALING_ICON.get());
+				tabData.accept(CommonSenseModItems.INVISIBILITY_ICON.get());
+				tabData.accept(CommonSenseModItems.LEAPING_ICON.get());
+				tabData.accept(CommonSenseModItems.NIGHT_VISION_ICON.get());
+				tabData.accept(CommonSenseModItems.POISON_ICON.get());
+				tabData.accept(CommonSenseModItems.REGENERATION_ICON.get());
+				tabData.accept(CommonSenseModItems.SLOWNESS_ICON.get());
+				tabData.accept(CommonSenseModItems.SWIFTNESS_ICON.get());
+				tabData.accept(CommonSenseModItems.WATER_BREATHING_ICON.get());
+				tabData.accept(CommonSenseModItems.WEAKNESS_ICON.get());
+				tabData.accept(CommonSenseModItems.SLOW_FALLING_ICON.get());
+				tabData.accept(CommonSenseModItems.ABSORPTION_ICON.get());
+				tabData.accept(CommonSenseModItems.BAD_LUCK_ICON.get());
+				tabData.accept(CommonSenseModItems.BAD_OMEN_ICON.get());
+				tabData.accept(CommonSenseModItems.BLINDNESS_ICON.get());
+				tabData.accept(CommonSenseModItems.CONDUIT_POWER_ICON.get());
+				tabData.accept(CommonSenseModItems.DOLPHINS_GRACE_ICON.get());
+				tabData.accept(CommonSenseModItems.GLOWING_ICON.get());
+				tabData.accept(CommonSenseModItems.HERO_OF_THE_VILLAGE_ICON.get());
+				tabData.accept(CommonSenseModItems.HUNGER_ICON.get());
+				tabData.accept(CommonSenseModItems.LEVITATION_ICON.get());
+				tabData.accept(CommonSenseModItems.LUCK_ICON.get());
+				tabData.accept(CommonSenseModItems.MINING_FATIGUE.get());
+				tabData.accept(CommonSenseModItems.NAUSEA_ICON.get());
+				tabData.accept(CommonSenseModItems.SATURATION_ICON.get());
+				tabData.accept(CommonSenseModItems.WITHER_ICON.get());
+				tabData.accept(CommonSenseModItems.DARKNESS_ICON.get());
+				tabData.accept(CommonSenseModItems.HASTE_ICON.get());
+				tabData.accept(CommonSenseModItems.HEALTH_BOOST_ICON.get());
+				tabData.accept(CommonSenseModItems.RESISTANCE_ICON.get());
+			}).withTabsBefore(OBSIDIAN_TOOLS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CLOVERS = REGISTRY.register("clovers",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.clovers")).icon(() -> new ItemStack(CommonSenseModItems.FOUR_LEAF_CLOVER.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.CLOVER_LEAF.get());
+				tabData.accept(CommonSenseModBlocks.A_CLUFF_OF_CLOVERS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.A_CLUFF_OF_MORE_CLOVERS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.A_CLUFF_OF_EVEN_MORE_CLOVERS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.A_CLUFF_OF_SO_MUCH_CLOVERS.get().asItem());
+				tabData.accept(CommonSenseModItems.FOUR_LEAF_CLOVER.get());
+				tabData.accept(CommonSenseModItems.THREE_LEAF_CLOVER.get());
+			}).withTabsBefore(POTION_ICONS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> CONCRETE_VARIANTS = REGISTRY.register("concrete_variants",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.concrete_variants")).icon(() -> new ItemStack(Blocks.WHITE_CONCRETE)).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModBlocks.WHITE_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ORANGE_CONCRETE_STAIR.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIGHT_GRAY_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MAGENTA_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIGHT_BLUE_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.YELLOW_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIME_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.PINK_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRAY_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.CYAN_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.PURPLE_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BLUE_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BROWN_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GREEN_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.RED_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BLACK_CONCRETE_STAIRS.get().asItem());
+				tabData.accept(CommonSenseModBlocks.WHITE_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.ORANGE_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIGHT_GRAY_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GRAY_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BLACK_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.MAGENTA_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIGHT_BLUE_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.YELLOW_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.LIME_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.PINK_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.CYAN_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.PURPLE_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BLUE_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.BROWN_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.GREEN_CONCRETE_SLAB.get().asItem());
+				tabData.accept(CommonSenseModBlocks.RED_CONCRETE_SLAB.get().asItem());
+			}).withTabsBefore(CLOVERS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> ORE_DUSTS = REGISTRY.register("ore_dusts",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.ore_dusts")).icon(() -> new ItemStack(CommonSenseModItems.IRON_DUST.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.IRON_ORE_CHUNK.get());
+				tabData.accept(CommonSenseModItems.IRON_ORE_DUST.get());
+				tabData.accept(CommonSenseModItems.IRON_DUST.get());
+				tabData.accept(CommonSenseModItems.IRON_CLUMP.get());
+				tabData.accept(CommonSenseModItems.REFINED_IRON_CLUMP.get());
+				tabData.accept(CommonSenseModItems.IRON_CLUMP_INGOT.get());
+			}).withTabsBefore(CONCRETE_VARIANTS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> RUBY_STUFF = REGISTRY.register("ruby_stuff",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.ruby_stuff")).icon(() -> new ItemStack(CommonSenseModItems.RUBY.get())).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.RUBY.get());
+				tabData.accept(CommonSenseModBlocks.RUBY_ORE.get().asItem());
+				tabData.accept(CommonSenseModBlocks.RUBY_BLOCK.get().asItem());
+				tabData.accept(CommonSenseModItems.RUBY_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.RUBY_SHOVEL.get());
+				tabData.accept(CommonSenseModItems.RUBY_HOE.get());
+				tabData.accept(CommonSenseModItems.RUBY_AXE.get());
+				tabData.accept(CommonSenseModItems.RUBY_SWORD.get());
+			}).withTabsBefore(ORE_DUSTS.getId()).build());
+	public static final DeferredHolder<CreativeModeTab, CreativeModeTab> FLINT_TOOLS = REGISTRY.register("flint_tools",
+			() -> CreativeModeTab.builder().title(Component.translatable("item_group.common_sense.flint_tools")).icon(() -> new ItemStack(Items.FLINT)).displayItems((parameters, tabData) -> {
+				tabData.accept(CommonSenseModItems.FLINT_PICKAXE.get());
+				tabData.accept(CommonSenseModItems.FLINT_AXE.get());
+				tabData.accept(CommonSenseModItems.FLINT_SHOVEL.get());
+				tabData.accept(CommonSenseModItems.FLINTHOE.get());
+				tabData.accept(CommonSenseModItems.FLINT_SWORD.get());
+			}).withTabsBefore(RUBY_STUFF.getId()).build());
+}

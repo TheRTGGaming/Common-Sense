@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:stone_brick"
+    }
+  },
+  "result": {
+    "id": "common_sense:stone_armortexutre_leggings",
+    "count": 1
+  }
+}

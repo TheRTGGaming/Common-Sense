@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "a b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:orange_dye"
+    },
+    "b": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:bad_luck_icon",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/chain_fence_post",
+  "textures": {
+    "all": "common_sense:block/fencepost",
+    "particle": "common_sense:block/fencepost",
+    "0": "common_sense:block/ironblock_1"
+  },
+  "render_type": "solid"
+}

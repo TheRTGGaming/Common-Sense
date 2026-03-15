@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:obsidian_slab",
+    "common_sense:compressed_netherite_block",
+    "common_sense:obsidian_stairs",
+    "common_sense:ruby_ore",
+    "common_sense:obsidian_brick",
+    "common_sense:endstone_netherite_ore",
+    "common_sense:block_of_ancient_ore",
+    "common_sense:ruby_block"
+  ]
+}

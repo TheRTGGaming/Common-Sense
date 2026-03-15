@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "common_sense:block/birch_leaves_1",
+    "particle": "common_sense:block/birch_leaves_1"
+  },
+  "render_type": "translucent"
+}

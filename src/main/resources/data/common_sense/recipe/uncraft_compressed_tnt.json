@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:compressed_tnt"
+    }
+  },
+  "result": {
+    "id": "minecraft:tnt",
+    "count": 9
+  }
+}

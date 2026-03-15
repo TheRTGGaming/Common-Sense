@@ -1,0 +1,10 @@
+{
+  "parent": "common_sense:custom/lightbulbon",
+  "textures": {
+    "all": "common_sense:block/yellow_glass",
+    "particle": "common_sense:block/yellow_glass",
+    "0": "common_sense:block/ironblock_1",
+    "1": "common_sense:block/yellow_glass"
+  },
+  "render_type": "translucent"
+}

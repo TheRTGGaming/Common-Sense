@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "common_sense:block/quick_step"
+    },
+    "facing=east": {
+      "model": "common_sense:block/quick_step",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "common_sense:block/quick_step",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "common_sense:block/quick_step",
+      "y": 270
+    }
+  }
+}

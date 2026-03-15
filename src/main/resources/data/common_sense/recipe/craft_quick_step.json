@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " ab",
+    "abc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wheat"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    },
+    "c": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "id": "common_sense:quick_step",
+    "count": 1
+  }
+}

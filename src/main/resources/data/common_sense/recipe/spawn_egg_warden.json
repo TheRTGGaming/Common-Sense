@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "fgf"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "b": {
+      "item": "minecraft:carved_pumpkin"
+    },
+    "c": {
+      "item": "minecraft:sculk_shrieker"
+    },
+    "d": {
+      "item": "common_sense:blank_spawn_egg"
+    },
+    "e": {
+      "item": "common_sense:souls"
+    },
+    "f": {
+      "item": "minecraft:sculk"
+    },
+    "g": {
+      "item": "minecraft:sculk_catalyst"
+    }
+  },
+  "result": {
+    "id": "minecraft:warden_spawn_egg",
+    "count": 1
+  }
+}

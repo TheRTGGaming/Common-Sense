@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.STONEBRICK#3"
+    },
+    "name": "craft_chiseled_stone",
+    "namespace": "mod"
+  }
+}

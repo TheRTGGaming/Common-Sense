@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 32.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:DioriteIronOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "name": "blast_diorite_iron_ore",
+    "namespace": "mod"
+  }
+}

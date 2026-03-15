@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/ruby_block",
+    "up": "common_sense:block/ruby_block",
+    "north": "common_sense:block/ruby_block",
+    "east": "common_sense:block/ruby_block",
+    "south": "common_sense:block/ruby_block",
+    "west": "common_sense:block/ruby_block",
+    "particle": "common_sense:block/ruby_block"
+  },
+  "render_type": "solid"
+}

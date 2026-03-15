@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:spruce_wood_helmet",
+    "common_sense_forge:oak_wood_helmet",
+    "common_sense_forge:mangrove_wood_helmet",
+    "common_sense_forge:jungle_wood_helmet",
+    "common_sense_forge:darkoak_wood_helmet",
+    "common_sense_forge:cherry_wood_helmet",
+    "common_sense_forge:birch_wood_helmet",
+    "common_sense_forge:acacia_wood_helmet",
+    "common_sense_forge:steel_armor_helmet",
+    "common_sense_forge:rotten_armor_helmet",
+    "common_sense_forge:stone_armortexutre_helmet",
+    "common_sense_forge:ancient_armor_helmet",
+    "common_sense_forge:amber_armor_helmet"
+  ]
+}

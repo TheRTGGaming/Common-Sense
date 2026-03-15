@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "caa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gray_dye"
+    },
+    "b": {
+      "item": "common_sense:imageicon"
+    },
+    "c": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "result": {
+    "id": "common_sense:slowness_icon",
+    "count": 1
+  }
+}

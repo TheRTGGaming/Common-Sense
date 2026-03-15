@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "id": "common_sense:stone_upgrade_template",
+    "count": 1
+  }
+}

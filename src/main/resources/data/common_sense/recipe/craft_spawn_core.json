@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "b": {
+      "item": "minecraft:zombie_head"
+    },
+    "c": {
+      "item": "minecraft:creeper_head"
+    },
+    "d": {
+      "item": "minecraft:nether_star"
+    },
+    "e": {
+      "item": "minecraft:skeleton_skull"
+    },
+    "f": {
+      "item": "minecraft:wither_skeleton_skull"
+    }
+  },
+  "result": {
+    "id": "common_sense:spawn_core",
+    "count": 1
+  }
+}

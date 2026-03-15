@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "common_sense:reinforced_upgrade"
+  },
+  "base": {
+    "item": "common_sense:netherite_axe_head"
+  },
+  "addition": {
+    "item": "common_sense:block_of_ancient_ore"
+  },
+  "result": {
+    "id": "common_sense:ancient_axe_head"
+  }
+}

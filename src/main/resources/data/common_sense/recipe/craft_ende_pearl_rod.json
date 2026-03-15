@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:ender_pearl"
+    },
+    "b": {
+      "item": "common_sense:launcher"
+    },
+    "c": {
+      "item": "minecraft:end_rod"
+    }
+  },
+  "result": {
+    "id": "common_sense:ender_pearl_rod",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_deepslate_slab"
+    },
+    "b": {
+      "item": "common_sense:amber"
+    }
+  },
+  "result": {
+    "id": "minecraft:polished_deepslate",
+    "count": 1
+  }
+}

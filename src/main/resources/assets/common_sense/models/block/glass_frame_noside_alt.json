@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "common_sense:block/glass_frame",
+    "particle": "common_sense:block/glass_frame"
+  },
+  "render_type": "cutout_mipped"
+}

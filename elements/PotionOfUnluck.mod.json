@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Potion Of Unluck",
+    "splashName": "Splash Potion of Potion Of Unluck",
+    "lingeringName": "Lingering Potion of Potion Of Unluck",
+    "arrowName": "Arrow of Of Unluck",
+    "effects": [
+      {
+        "effect": {
+          "value": "UNLUCK"
+        },
+        "duration": 3600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/cherrybarkblock",
+  "textures": {
+    "all": "common_sense:block/cherry_top",
+    "particle": "common_sense:block/cherry_top",
+    "1": "common_sense:block/cherry"
+  },
+  "render_type": "solid"
+}

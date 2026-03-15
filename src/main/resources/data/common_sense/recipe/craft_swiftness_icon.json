@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    "abc",
+    " ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "c": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:swiftness_icon",
+    "count": 1
+  }
+}

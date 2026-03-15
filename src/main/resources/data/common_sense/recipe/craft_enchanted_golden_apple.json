@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:enchanted_golden_ingot"
+    },
+    "b": {
+      "item": "minecraft:golden_apple"
+    }
+  },
+  "result": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 1
+  }
+}

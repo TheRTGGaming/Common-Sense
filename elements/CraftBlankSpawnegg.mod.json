@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "CUSTOM:Souls"
+      },
+      {
+        "value": "Items.ECHO_SHARD"
+      },
+      {
+        "value": "Items.SCUTE"
+      },
+      {
+        "value": "Items.ENDER_PEARL"
+      },
+      {
+        "value": "Items.SCUTE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlankSpawnEgg"
+    },
+    "name": "craft_blank_spawnegg",
+    "namespace": "mod"
+  }
+}

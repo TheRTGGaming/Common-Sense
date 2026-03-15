@@ -1,0 +1,36 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "sword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Anchient Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:AncientTools"
+      }
+    ],
+    "efficiency": 4.0,
+    "attackSpeed": 1.5,
+    "enchantability": 18,
+    "damageVsEntity": 11.0,
+    "usageCount": 2551,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

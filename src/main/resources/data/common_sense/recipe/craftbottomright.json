@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aab",
+    "bab",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b": {
+      "item": "minecraft:chorus_fruit"
+    }
+  },
+  "result": {
+    "id": "common_sense:elytra_right_bottom_wing",
+    "count": 1
+  }
+}

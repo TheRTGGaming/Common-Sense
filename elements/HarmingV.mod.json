@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Harming",
+    "splashName": "Splash Potion of Harming",
+    "lingeringName": "Lingering Potion of Harming",
+    "arrowName": "Arrow of Harming",
+    "effects": [
+      {
+        "effect": {
+          "value": "INSTANT_DAMAGE"
+        },
+        "duration": 20,
+        "infinite": false,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

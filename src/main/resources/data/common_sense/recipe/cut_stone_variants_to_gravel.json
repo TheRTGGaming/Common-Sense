@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "stone_variants"
+  },
+  "result": {
+    "id": "minecraft:gravel",
+    "count": 1
+  }
+}

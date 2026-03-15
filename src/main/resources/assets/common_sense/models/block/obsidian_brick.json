@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/obsidianbrick",
+    "up": "common_sense:block/obsidianbrick",
+    "north": "common_sense:block/obsidianbrick",
+    "east": "common_sense:block/obsidianbrick",
+    "south": "common_sense:block/obsidianbrick",
+    "west": "common_sense:block/obsidianbrick",
+    "particle": "common_sense:block/obsidianbrick"
+  },
+  "render_type": "solid"
+}

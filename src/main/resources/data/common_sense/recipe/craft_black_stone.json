@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "cd"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "b": {
+      "item": "minecraft:tuff"
+    },
+    "c": {
+      "item": "minecraft:tinted_glass"
+    },
+    "d": {
+      "item": "minecraft:cobbled_deepslate"
+    }
+  },
+  "result": {
+    "id": "minecraft:blackstone",
+    "count": 4
+  }
+}

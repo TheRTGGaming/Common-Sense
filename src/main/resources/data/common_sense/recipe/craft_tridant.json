@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    " b ",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:quartz"
+    },
+    "b": {
+      "item": "common_sense:prismarine_stick"
+    }
+  },
+  "result": {
+    "id": "minecraft:trident",
+    "count": 1
+  }
+}

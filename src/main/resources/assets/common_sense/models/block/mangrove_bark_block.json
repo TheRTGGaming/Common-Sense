@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/mangrovebarkblock",
+  "textures": {
+    "all": "common_sense:block/mangrove_top",
+    "particle": "common_sense:block/mangrove_top",
+    "1": "common_sense:block/mangrove"
+  },
+  "render_type": "solid"
+}

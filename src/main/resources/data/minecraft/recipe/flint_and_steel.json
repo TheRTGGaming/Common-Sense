@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    " b"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:steel_ingot"
+    },
+    "b": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "id": "minecraft:flint_and_steel",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "common_sense:blocks/birch_bark_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "common_sense:birch_bark_block"
+        }
+      ]
+    }
+  ]
+}

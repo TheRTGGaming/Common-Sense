@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "common_sense:block/iron_tower_top"
+    },
+    "facing=east": {
+      "model": "common_sense:block/iron_tower_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "common_sense:block/iron_tower_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "common_sense:block/iron_tower_top",
+      "y": 270
+    }
+  }
+}

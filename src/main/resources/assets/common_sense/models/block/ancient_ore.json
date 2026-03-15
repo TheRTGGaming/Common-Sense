@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/prabalit_ore",
+    "up": "common_sense:block/prabalit_ore",
+    "north": "common_sense:block/prabalit_ore",
+    "east": "common_sense:block/prabalit_ore",
+    "south": "common_sense:block/prabalit_ore",
+    "west": "common_sense:block/prabalit_ore",
+    "particle": "common_sense:block/prabalit_ore"
+  },
+  "render_type": "solid"
+}

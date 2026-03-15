@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:brick_slab"
+    },
+    "b": {
+      "item": "common_sense:amber"
+    }
+  },
+  "result": {
+    "id": "minecraft:bricks",
+    "count": 1
+  }
+}

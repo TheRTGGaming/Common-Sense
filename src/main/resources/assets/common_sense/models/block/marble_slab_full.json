@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "common_sense:block/marble",
+    "bottom": "common_sense:block/marble",
+    "top": "common_sense:block/marble",
+    "side": "common_sense:block/marble"
+  },
+  "render_type": "solid"
+}

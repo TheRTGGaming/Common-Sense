@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Leaping",
+    "splashName": "Splash Potion of Leaping",
+    "lingeringName": "Lingering Potion of Leaping",
+    "arrowName": "Arrow of Leaping 3",
+    "effects": [
+      {
+        "effect": {
+          "value": "JUMP_BOOST"
+        },
+        "duration": 3000,
+        "infinite": false,
+        "amplifier": 2,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

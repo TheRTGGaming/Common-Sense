@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/fertilizer_block",
+    "up": "common_sense:block/fertilizer_block",
+    "north": "common_sense:block/fertilizer_block",
+    "east": "common_sense:block/fertilizer_block",
+    "south": "common_sense:block/fertilizer_block",
+    "west": "common_sense:block/fertilizer_block",
+    "particle": "common_sense:block/fertilizer_block"
+  },
+  "render_type": "solid"
+}

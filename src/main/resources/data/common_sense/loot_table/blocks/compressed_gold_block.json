@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "common_sense:blocks/compressed_gold_block",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "common_sense:compressed_gold_block"
+        }
+      ]
+    }
+  ]
+}

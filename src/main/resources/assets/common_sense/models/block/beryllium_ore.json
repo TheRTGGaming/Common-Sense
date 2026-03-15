@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/beryllium_ore",
+    "up": "common_sense:block/beryllium_ore",
+    "north": "common_sense:block/beryllium_ore",
+    "east": "common_sense:block/beryllium_ore",
+    "south": "common_sense:block/beryllium_ore",
+    "west": "common_sense:block/beryllium_ore",
+    "particle": "common_sense:block/beryllium_ore"
+  },
+  "render_type": "solid"
+}

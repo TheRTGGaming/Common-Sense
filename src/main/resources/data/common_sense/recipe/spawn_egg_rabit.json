@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rabbit_hide"
+    },
+    "b": {
+      "item": "minecraft:bone"
+    },
+    "c": {
+      "item": "common_sense:blank_spawn_egg"
+    },
+    "d": {
+      "item": "minecraft:rabbit"
+    },
+    "e": {
+      "item": "minecraft:rabbit_foot"
+    }
+  },
+  "result": {
+    "id": "minecraft:rabbit_spawn_egg",
+    "count": 1
+  }
+}

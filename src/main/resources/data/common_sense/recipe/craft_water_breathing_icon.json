@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_dye"
+    },
+    "b": {
+      "item": "minecraft:light_blue_dye"
+    },
+    "c": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:water_breathing_icon",
+    "count": 1
+  }
+}

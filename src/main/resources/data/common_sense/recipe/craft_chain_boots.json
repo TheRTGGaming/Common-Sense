@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:chain_ring"
+    }
+  },
+  "result": {
+    "id": "minecraft:chainmail_boots",
+    "count": 1
+  }
+}

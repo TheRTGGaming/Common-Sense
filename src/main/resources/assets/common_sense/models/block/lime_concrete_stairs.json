@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "minecraft:block/lime_concrete",
+    "bottom": "minecraft:block/lime_concrete",
+    "top": "minecraft:block/lime_concrete",
+    "side": "minecraft:block/lime_concrete"
+  },
+  "render_type": "solid"
+}

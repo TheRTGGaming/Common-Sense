@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "stonebrickpng",
+        "2": "woodplanks"
+      },
+      "name": "default"
+    }
+  }
+}

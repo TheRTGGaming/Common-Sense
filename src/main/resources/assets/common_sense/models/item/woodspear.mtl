@@ -1,0 +1,20 @@
+newmtl m_8e91277c-cb82-e23a-707e-6c0bdbb79825
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd common_sense_forge:block/woodplanks
+Ns 100.0
+d 1.0
+newmtl m_76093288-da3a-3f71-a9f9-92fcce5f8eb8
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+map_Kd common_sense_forge:block/oak
+Ns 100.0
+d 1.0
+newmtl none
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 100.0
+d 1.0

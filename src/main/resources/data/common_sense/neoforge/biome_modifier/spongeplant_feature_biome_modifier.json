@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "deep_ocean",
+    "warm_ocean"
+  ],
+  "features": "common_sense:spongeplant_feature",
+  "step": "surface_structures"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bab",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "b": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "minecraft:stone_axe"
+    },
+    "d": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:bad_omen_icon",
+    "count": 1
+  }
+}

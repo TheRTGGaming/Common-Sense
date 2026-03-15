@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "cs_foods:knifes"
+    },
+    "b": {
+      "item": "minecraft:dark_oak_log"
+    }
+  },
+  "result": {
+    "id": "common_sense:dark_oak_bark",
+    "count": 2
+  }
+}

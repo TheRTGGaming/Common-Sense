@@ -1,0 +1,570 @@
+{
+  "_fv": 79,
+  "_type": "blockstates",
+  "definition": {
+    "block": "ChainFence",
+    "blockstateList": [
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_north:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_south:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_east:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_west:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chainfencecenterns:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chainfencecenterew:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_corner_nw:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fense_corner_ne:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_corner_sw:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_corner_se:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_cross:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_t_new:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_t_nse:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_t_nsw:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 0.0,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "ironblock_1",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "ironblock_1",
+        "renderType": 2,
+        "customModelName": "chain_fence_t_sew:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.5,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 0.0,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 16.0,
+            "My": 20.1,
+            "Mz": 8.5,
+            "subtract": false
+          },
+          {
+            "mx": 7.5,
+            "my": 0.0,
+            "mz": 7.5,
+            "Mx": 8.5,
+            "My": 20.1,
+            "Mz": 16.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

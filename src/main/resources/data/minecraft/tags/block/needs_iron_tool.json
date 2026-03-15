@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:iron_tower_top",
+    "common_sense:andesite_redstone_ore",
+    "common_sense:iron_tower_top_powered",
+    "common_sense:beryllium_ore",
+    "common_sense:vertical_chain",
+    "common_sense:granite_emerald_ore",
+    "common_sense:andesite_emerald_ore",
+    "common_sense:granite_gold_ore",
+    "common_sense:sponge_stem",
+    "common_sense:diorite_emerald_ore",
+    "common_sense:iron_tower",
+    "common_sense:iron_tower_powered",
+    "common_sense:granite_redstone_ore",
+    "common_sense:granite_diamond_ore",
+    "common_sense:steel_block",
+    "common_sense:andesite_diamond_ore",
+    "common_sense:andesite_gold_ore",
+    "common_sense:diorite_diamond_ore",
+    "common_sense:diorite_redstone_ore",
+    "common_sense:diorite_gold_ore",
+    "common_sense:deep_slate_amber_ore"
+  ]
+}

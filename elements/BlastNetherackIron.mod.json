@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 40,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:NetherackIronOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.IRON_INGOT"
+    },
+    "name": "blast_netherack_iron",
+    "namespace": "mod"
+  }
+}

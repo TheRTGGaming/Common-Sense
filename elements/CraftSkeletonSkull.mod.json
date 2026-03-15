@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "Items.DYE#15"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SKULL#0"
+    },
+    "name": "craft_skeleton_skull",
+    "namespace": "mod"
+  }
+}

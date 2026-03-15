@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Fire Resistance",
+    "splashName": "Splash Potion of Fire Resistance",
+    "lingeringName": "Lingering Potion of Fire Resistance",
+    "arrowName": "Arrow of Fire Resistance",
+    "effects": [
+      {
+        "effect": {
+          "value": "FIRE_RESISTANCE"
+        },
+        "duration": 21600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

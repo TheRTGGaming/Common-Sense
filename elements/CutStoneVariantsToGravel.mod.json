@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:stone_variants"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "Blocks.GRAVEL"
+    },
+    "name": "cut_stone_variants_to_gravel",
+    "namespace": "mod"
+  }
+}

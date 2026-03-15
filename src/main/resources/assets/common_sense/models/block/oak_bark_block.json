@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/oakbarkblock",
+  "textures": {
+    "all": "common_sense:block/oak_top",
+    "particle": "common_sense:block/oak_top",
+    "1": "common_sense:block/oak"
+  },
+  "render_type": "solid"
+}

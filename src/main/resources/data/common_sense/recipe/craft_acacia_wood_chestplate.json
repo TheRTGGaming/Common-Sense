@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:acacia_bark"
+    }
+  },
+  "result": {
+    "id": "common_sense:acacia_wood_chestplate",
+    "count": 1
+  }
+}

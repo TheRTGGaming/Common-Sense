@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "def",
+    " g "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone_meal"
+    },
+    "b": {
+      "tag": "minecraft:leaves"
+    },
+    "c": {
+      "tag": "minecraft:freshplants"
+    },
+    "d": {
+      "item": "common_sense:feces"
+    },
+    "e": {
+      "item": "minecraft:seagrass"
+    },
+    "f": {
+      "item": "minecraft:dirt"
+    },
+    "g": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "id": "common_sense:fertilizer",
+    "count": 8
+  }
+}

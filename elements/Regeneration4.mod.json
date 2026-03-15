@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Regeneration",
+    "splashName": "Splash Potion of Regeneration",
+    "lingeringName": "Lingering Potion of Regeneration",
+    "arrowName": "Arrow of Regeneration",
+    "effects": [
+      {
+        "effect": {
+          "value": "REGENERATION"
+        },
+        "duration": 1200,
+        "infinite": false,
+        "amplifier": 3,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

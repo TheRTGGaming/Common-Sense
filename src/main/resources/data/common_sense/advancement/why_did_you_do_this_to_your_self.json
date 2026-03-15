@@ -1,0 +1,34 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:anchient_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.why_did_you_do_this_to_your_self.title"
+    },
+    "description": {
+      "translate": "advancements.why_did_you_do_this_to_your_self.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "why_did_you_do_this_to_your_self_0": {
+      "trigger": "minecraft:placed_block",
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:block_state_property",
+            "block": "common_sense:triple_compressed_obsidan"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 111
+  },
+  "parent": "common_sense:unbreakable"
+}

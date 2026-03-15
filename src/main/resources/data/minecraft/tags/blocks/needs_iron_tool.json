@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:vertical_chain",
+    "common_sense_forge:steel_block",
+    "common_sense_forge:sponge_stem",
+    "common_sense_forge:chain_fence_corner_nw",
+    "common_sense_forge:granite_redstone_ore",
+    "common_sense_forge:granite_emerald_ore",
+    "common_sense_forge:granite_diamond_ore",
+    "common_sense_forge:granite_gold_ore",
+    "common_sense_forge:diorite_redstone_ore",
+    "common_sense_forge:diorite_emerald_ore",
+    "common_sense_forge:diorite_diamond_ore",
+    "common_sense_forge:diorite_gold_ore",
+    "common_sense_forge:andesite_redstone_ore",
+    "common_sense_forge:andesite_emerald_ore",
+    "common_sense_forge:andesite_gold_ore",
+    "common_sense_forge:andesite_diamond_ore",
+    "common_sense_forge:deep_slate_amber_ore"
+  ]
+}

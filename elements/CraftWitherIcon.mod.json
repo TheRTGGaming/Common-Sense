@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WitherBone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WitherBone"
+      },
+      {
+        "value": "CUSTOM:Imageicon"
+      },
+      {
+        "value": "CUSTOM:WitherBone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WitherBone"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WitherIcon"
+    },
+    "name": "craft_wither_icon",
+    "namespace": "mod"
+  }
+}

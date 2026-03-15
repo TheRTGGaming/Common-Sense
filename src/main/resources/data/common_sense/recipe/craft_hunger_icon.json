@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "b": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:hunger_icon",
+    "count": 1
+  }
+}

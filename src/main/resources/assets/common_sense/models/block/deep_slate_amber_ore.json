@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/deepslate_top_amber",
+    "up": "common_sense:block/deepslate_top_amber",
+    "north": "common_sense:block/deeplsateamber1",
+    "east": "common_sense:block/deeplsateamber1",
+    "south": "common_sense:block/deeplsateamber1",
+    "west": "common_sense:block/deeplsateamber1",
+    "particle": "common_sense:block/deepslate_top_amber"
+  },
+  "render_type": "solid"
+}

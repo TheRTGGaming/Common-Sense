@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Soul Eater",
+    "achievementDescription": "you just ate someones soul! was it delicious?",
+    "achievementIcon": {
+      "value": "CUSTOM:Souls"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [
+      "CraftSoulSand",
+      "CraftBottleOChanting"
+    ],
+    "rewardXP": 666,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:WitchDoctor"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"item_consumed\" x=\"57\" y=\"19\"><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:Souls</field></block></value></block></next></block></xml>"
+  }
+}

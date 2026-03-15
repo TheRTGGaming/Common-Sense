@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "ironblock_1",
+        "1": "ironblock_1",
+        "2": "ironblock_1",
+        "3": "ironblock_1"
+      }
+    }
+  }
+}

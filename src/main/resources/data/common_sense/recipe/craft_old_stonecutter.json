@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "id": "common_sense:old_stonecutter",
+    "count": 1
+  }
+}

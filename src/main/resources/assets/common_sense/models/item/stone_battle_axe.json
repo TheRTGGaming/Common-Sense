@@ -1,0 +1,11 @@
+{
+  "parent": "common_sense:custom/stone_battle_axe",
+  "textures": {
+    "5": "common_sense:block/compressedcobblestone",
+    "6": "common_sense:block/ironblock_1",
+    "7": "common_sense:block/stone_texture_je5_be3",
+    "8": "common_sense:block/white_wool",
+    "9": "common_sense:block/logtexure",
+    "particle": "common_sense:item/stonebattleaxe"
+  }
+}

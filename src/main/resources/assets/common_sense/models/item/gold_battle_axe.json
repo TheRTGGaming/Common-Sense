@@ -1,0 +1,10 @@
+{
+  "parent": "common_sense:custom/gold_battle_axe",
+  "textures": {
+    "4": "common_sense:block/ironblock_1",
+    "5": "common_sense:block/white_wool",
+    "7": "common_sense:block/logtexure",
+    "10": "common_sense:block/gold_1",
+    "particle": "common_sense:item/goldbattleaxe"
+  }
+}

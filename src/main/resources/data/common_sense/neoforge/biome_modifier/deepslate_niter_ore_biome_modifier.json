@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_overworld",
+  "features": "common_sense:deepslate_niter_ore",
+  "step": "underground_ores"
+}

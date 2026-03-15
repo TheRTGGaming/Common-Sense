@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#is_nether",
+  "features": "common_sense:netherack_iron_ore",
+  "step": "underground_ores"
+}

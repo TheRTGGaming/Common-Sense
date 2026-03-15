@@ -1,0 +1,40 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 15,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "minecraft:small_flowers"
+        },
+        "state": {
+          "Name": "common_sense:a_cluff_of_more_clovers"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "common_sense:a_cluff_of_clovers"
+          }
+        },
+        "state": {
+          "Name": "common_sense:a_cluff_of_more_clovers"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:short_grass"
+          }
+        },
+        "state": {
+          "Name": "common_sense:a_cluff_of_more_clovers"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "common_sense:item/clover_in_a_pot"
+  },
+  "render_type": "translucent"
+}

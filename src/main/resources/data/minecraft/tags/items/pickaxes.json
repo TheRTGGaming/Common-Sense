@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:obsidian_pickaxe",
+    "common_sense_forge:steel_pickaxe",
+    "common_sense_forge:anchient_pickaxe",
+    "common_sense_forge:amber_pickaxe"
+  ]
+}

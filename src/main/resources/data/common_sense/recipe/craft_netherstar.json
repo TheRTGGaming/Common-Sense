@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:nether_star_fragment"
+    },
+    "b": {
+      "item": "common_sense:netherite_nugget"
+    }
+  },
+  "result": {
+    "id": "minecraft:nether_star",
+    "count": 1
+  }
+}

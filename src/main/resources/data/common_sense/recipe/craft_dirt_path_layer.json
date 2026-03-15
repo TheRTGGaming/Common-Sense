@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "id": "common_sense:dirt_path_layer_1",
+    "count": 48
+  }
+}

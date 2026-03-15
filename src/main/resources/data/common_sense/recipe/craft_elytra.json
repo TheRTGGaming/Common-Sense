@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "abc",
+    "d e"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:elytra_left_top_wing"
+    },
+    "b": {
+      "item": "common_sense:elytra_middle"
+    },
+    "c": {
+      "item": "common_sense:elytra_right_top_wing"
+    },
+    "d": {
+      "item": "common_sense:elytra_left_bottom_wing"
+    },
+    "e": {
+      "item": "common_sense:elytra_right_bottom_wing"
+    }
+  },
+  "result": {
+    "id": "minecraft:elytra",
+    "count": 1
+  }
+}

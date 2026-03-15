@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:iron_clump_ingot"
+    },
+    "b": {
+      "item": "common_sense:stone_hammer"
+    }
+  },
+  "result": {
+    "id": "minecraft:iron_ingot",
+    "count": 1
+  }
+}

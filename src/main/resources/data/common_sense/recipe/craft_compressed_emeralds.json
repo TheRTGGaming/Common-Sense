@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:emerald_block"
+    }
+  },
+  "result": {
+    "id": "common_sense:compressed_emerald_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 11,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "common_sense:granite_copper_ore"
+  },
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

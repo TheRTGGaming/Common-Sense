@@ -1,0 +1,36 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ancienthoe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Anchient Hoe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:AncientTools"
+      }
+    ],
+    "efficiency": 4.0,
+    "attackSpeed": 5.0,
+    "enchantability": 17,
+    "damageVsEntity": 1.5,
+    "usageCount": 4062,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " aa",
+    "ab ",
+    "a  "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:planks"
+    },
+    "b": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "id": "common_sense:wood_axe_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "logtexure",
+        "1": "haytop",
+        "3": "copper_block",
+        "4": "woodplank"
+      },
+      "name": "default"
+    }
+  }
+}

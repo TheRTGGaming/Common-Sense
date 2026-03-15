@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:creeper_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.dont_get_to_close.title"
+    },
+    "description": {
+      "translate": "advancements.dont_get_to_close.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dont_get_to_close_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:creeper_spawn_egg"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 22
+  },
+  "parent": "common_sense:a_different_kind_of_egg"
+}

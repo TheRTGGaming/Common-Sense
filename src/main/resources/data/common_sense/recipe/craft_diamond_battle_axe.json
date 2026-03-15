@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:diamond_axe_head"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "common_sense:diamond_battle_axe",
+    "count": 1
+  }
+}

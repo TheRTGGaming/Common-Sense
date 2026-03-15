@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:double_compressed_cobble_stone"
+    }
+  },
+  "result": {
+    "id": "common_sense:triple_compressed_cobble_stone",
+    "count": 1
+  }
+}

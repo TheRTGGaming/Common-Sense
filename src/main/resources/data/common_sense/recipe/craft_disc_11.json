@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:netherite_nugget"
+    },
+    "b": {
+      "item": "common_sense:blank_disc"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_11",
+    "count": 1
+  }
+}

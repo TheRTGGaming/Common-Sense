@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Water Breathing",
+    "splashName": "Splash Potion of Water Breathing",
+    "lingeringName": "Lingering Potion of Water Breathing",
+    "arrowName": "Arrow of Water Breathing",
+    "effects": [
+      {
+        "effect": {
+          "value": "WATER_BREATHING"
+        },
+        "duration": 21600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

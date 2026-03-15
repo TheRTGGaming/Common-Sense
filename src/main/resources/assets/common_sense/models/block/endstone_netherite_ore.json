@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/endstone_netherite_ore",
+    "up": "common_sense:block/endstone_netherite_ore",
+    "north": "common_sense:block/endstone_netherite_ore",
+    "east": "common_sense:block/endstone_netherite_ore",
+    "south": "common_sense:block/endstone_netherite_ore",
+    "west": "common_sense:block/endstone_netherite_ore",
+    "particle": "common_sense:block/endstone_netherite_ore"
+  },
+  "render_type": "solid"
+}

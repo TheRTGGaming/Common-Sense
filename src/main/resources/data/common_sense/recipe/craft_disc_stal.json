@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blackstone"
+    },
+    "b": {
+      "item": "common_sense:blank_disc"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_stal",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:endstone_netherite_ore",
+    "common_sense_forge:obsidian_brick",
+    "common_sense_forge:obsidian_slab",
+    "common_sense_forge:obsidian_stairs",
+    "common_sense_forge:compressed_netherite_block",
+    "common_sense_forge:block_of_ancient_ore"
+  ]
+}

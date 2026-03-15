@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "tag": "cs_foods:chocolate_bar"
+    }
+  },
+  "result": {
+    "id": "common_sense:gold_chocolate_bar",
+    "count": 1
+  }
+}

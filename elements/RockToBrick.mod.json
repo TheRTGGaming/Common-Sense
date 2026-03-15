@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 40,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Rock"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:StoneBrick"
+    },
+    "name": "rock_to_brick",
+    "namespace": "mod"
+  }
+}

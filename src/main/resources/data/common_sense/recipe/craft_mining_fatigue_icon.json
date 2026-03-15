@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "b c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gray_dye"
+    },
+    "b": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "c": {
+      "item": "common_sense:imageicon"
+    }
+  },
+  "result": {
+    "id": "common_sense:mining_fatigue",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:saw_blade"
+    },
+    "title": {
+      "translate": "advancements.that_is_sharp.title"
+    },
+    "description": {
+      "translate": "advancements.that_is_sharp.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "that_is_sharp_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:saw_blade"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 22
+  },
+  "parent": "common_sense:smarter_then_the_average_villager"
+}

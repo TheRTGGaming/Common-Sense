@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "common_sense:block/chain_fence"
+    },
+    "blockstate=1": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_7"
+    },
+    "blockstate=9": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_8"
+    },
+    "blockstate=10": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_9"
+    },
+    "blockstate=11": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_10"
+    },
+    "blockstate=12": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_11"
+    },
+    "blockstate=13": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_12"
+    },
+    "blockstate=14": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_13"
+    },
+    "blockstate=15": {
+      "model": "common_sense:block/chain_fence_block_states_blockstate_14"
+    }
+  }
+}

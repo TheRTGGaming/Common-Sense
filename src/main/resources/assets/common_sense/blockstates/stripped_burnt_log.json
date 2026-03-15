@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "common_sense:block/stripped_burnt_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "common_sense:block/stripped_burnt_log"
+    },
+    "axis=z": {
+      "model": "common_sense:block/stripped_burnt_log",
+      "x": 90
+    }
+  }
+}

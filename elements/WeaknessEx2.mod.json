@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Weakness",
+    "splashName": "Splash Potion of Weakness",
+    "lingeringName": "Lingering Potion of Weakness",
+    "arrowName": "Arrow of Weakness",
+    "effects": [
+      {
+        "effect": {
+          "value": "WEAKNESS"
+        },
+        "duration": 8600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

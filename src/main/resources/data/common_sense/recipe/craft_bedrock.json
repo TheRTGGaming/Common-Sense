@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:triple_compressed_obsidan"
+    },
+    "b": {
+      "item": "common_sense:ancient_ingot"
+    }
+  },
+  "result": {
+    "id": "minecraft:bedrock",
+    "count": 1
+  }
+}

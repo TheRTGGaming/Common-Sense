@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 33,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "common_sense:andesite_emerald_ore"
+  },
+  "result": {
+    "id": "minecraft:emerald"
+  }
+}

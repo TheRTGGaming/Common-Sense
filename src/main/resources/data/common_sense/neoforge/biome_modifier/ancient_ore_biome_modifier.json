@@ -1,0 +1,9 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "end_highlands",
+    "end_midlands"
+  ],
+  "features": "common_sense:ancient_ore",
+  "step": "underground_ores"
+}

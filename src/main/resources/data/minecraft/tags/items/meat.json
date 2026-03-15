@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:fish_sticks",
+    "common_sense_forge:cooked_flesh",
+    "common_sense_forge:cooked_bacon",
+    "common_sense_forge:cooked_egg"
+  ]
+}

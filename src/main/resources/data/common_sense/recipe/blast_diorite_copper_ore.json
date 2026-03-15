@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 15,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "common_sense:diorite_copper_ore"
+  },
+  "result": {
+    "id": "minecraft:copper_ingot"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "common_sense:custom/reinforced_battle_axe",
+  "textures": {
+    "2": "common_sense:block/nethriteblockofore",
+    "3": "common_sense:block/reinforcedblock",
+    "4": "common_sense:block/gold_1",
+    "6": "common_sense:block/ironblock_1",
+    "8": "common_sense:block/white_wool",
+    "particle": "common_sense:item/ancientbattleaxe"
+  }
+}

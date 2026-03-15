@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/double_compressed_coal",
+    "up": "common_sense:block/double_compressed_coal",
+    "north": "common_sense:block/double_compressed_coal",
+    "east": "common_sense:block/double_compressed_coal",
+    "south": "common_sense:block/double_compressed_coal",
+    "west": "common_sense:block/double_compressed_coal",
+    "particle": "common_sense:block/double_compressed_coal"
+  },
+  "render_type": "solid"
+}

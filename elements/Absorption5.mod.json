@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Absorption",
+    "splashName": "Splash Potion of Absorption",
+    "lingeringName": "Lingering Potion of Absorption",
+    "arrowName": "Arrow of Absorption",
+    "effects": [
+      {
+        "effect": {
+          "value": "ABSORPTION"
+        },
+        "duration": 1200,
+        "infinite": false,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

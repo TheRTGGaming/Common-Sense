@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:ruby_sword",
+    "common_sense:steel_sword",
+    "common_sense:anchient_sword",
+    "common_sense:amber_sword",
+    "common_sense:flint_sword",
+    "common_sense:obsidian_sword"
+  ]
+}

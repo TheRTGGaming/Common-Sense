@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Elytra Items",
+    "icon": {
+      "value": "Items.ELYTRA"
+    },
+    "showSearch": false
+  }
+}

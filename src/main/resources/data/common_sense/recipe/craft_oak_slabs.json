@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "id": "common_sense:oak_slab",
+    "count": 6
+  }
+}

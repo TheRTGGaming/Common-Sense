@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "3": "compressed5",
+        "8": "white_wool",
+        "9": "logtexure"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/sulfurore",
+    "up": "common_sense:block/sulfurore",
+    "north": "common_sense:block/sulfurore",
+    "east": "common_sense:block/sulfurore",
+    "south": "common_sense:block/sulfurore",
+    "west": "common_sense:block/sulfurore",
+    "particle": "common_sense:block/sulfurore"
+  },
+  "render_type": "solid"
+}

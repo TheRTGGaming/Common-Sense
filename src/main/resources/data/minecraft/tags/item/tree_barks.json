@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:oak_bark",
+    "common_sense:pale_oak_bark",
+    "common_sense:birch_bark",
+    "common_sense:jungle_bark",
+    "common_sense:cherry_bark",
+    "common_sense:dark_oak_bark",
+    "common_sense:spruce_bark",
+    "common_sense:acacia_bark",
+    "common_sense:mangrove_bark"
+  ]
+}

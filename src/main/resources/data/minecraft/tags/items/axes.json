@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:obsidian_axe",
+    "common_sense_forge:steel_axe",
+    "common_sense_forge:anchient_battle_axe",
+    "common_sense_forge:netherite_battle_axe",
+    "common_sense_forge:diamond_battle_axe",
+    "common_sense_forge:gold_battle_axe",
+    "common_sense_forge:iron_battle_axe",
+    "common_sense_forge:stone_battle_axe",
+    "common_sense_forge:wood_battle_axe",
+    "common_sense_forge:anchient_axe",
+    "common_sense_forge:amber_axe"
+  ]
+}

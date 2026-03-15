@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/iron_bar_gate",
+  "textures": {
+    "all": "common_sense:block/ironbarsgatetexture",
+    "particle": "common_sense:block/ironbarsgatetexture",
+    "0": "common_sense:block/ironbarsgatetexture"
+  },
+  "render_type": "translucent"
+}

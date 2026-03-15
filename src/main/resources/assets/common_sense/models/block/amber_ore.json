@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/amberstoneore",
+    "up": "common_sense:block/amberstoneore",
+    "north": "common_sense:block/amberstoneore",
+    "east": "common_sense:block/amberstoneore",
+    "south": "common_sense:block/amberstoneore",
+    "west": "common_sense:block/amberstoneore",
+    "particle": "common_sense:block/amberstoneore"
+  },
+  "render_type": "solid"
+}

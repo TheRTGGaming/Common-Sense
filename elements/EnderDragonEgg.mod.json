@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.EGG"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": "Items.SKULL#5"
+      },
+      {
+        "value": "Items.CHORUS_FRUIT"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      },
+      {
+        "value": "Items.ENDER_EYE"
+      },
+      {
+        "value": "Items.SHULKER_SHELL"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.DRAGON_EGG"
+    },
+    "name": "ender_dragon_egg",
+    "namespace": "mod"
+  }
+}

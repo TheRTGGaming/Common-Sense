@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "cs_foods:knifes"
+    },
+    "b": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "id": "common_sense:birch_bark",
+    "count": 2
+  }
+}

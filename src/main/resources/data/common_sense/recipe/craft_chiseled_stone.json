@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:rock"
+    },
+    "b": {
+      "item": "common_sense:stone_brick"
+    }
+  },
+  "result": {
+    "id": "minecraft:chiseled_stone_bricks",
+    "count": 1
+  }
+}

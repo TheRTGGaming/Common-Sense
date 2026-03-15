@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "asphaltyellowline",
+        "1": "asphalt"
+      },
+      "name": "default"
+    }
+  }
+}

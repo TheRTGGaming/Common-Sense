@@ -1,0 +1,36 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "ancientshovel",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Anchient Shovel",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:AncientTools"
+      }
+    ],
+    "efficiency": 10.0,
+    "attackSpeed": 1.0,
+    "enchantability": 16,
+    "damageVsEntity": 7.5,
+    "usageCount": 4062,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

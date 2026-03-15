@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    " ba",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:string"
+    },
+    "b": {
+      "item": "common_sense:chain_ring"
+    },
+    "c": {
+      "item": "minecraft:oak_sign"
+    }
+  },
+  "result": {
+    "id": "minecraft:name_tag",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "plains",
+  "features": "common_sense:andesite_emerald_ore",
+  "step": "underground_ores"
+}

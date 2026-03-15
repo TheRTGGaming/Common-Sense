@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/netherite_battle_axe",
+  "textures": {
+    "2": "common_sense:block/compressed3",
+    "6": "common_sense:block/logtexure",
+    "8": "common_sense:block/white_wool",
+    "particle": "common_sense:item/netheritebattleaxe"
+  }
+}

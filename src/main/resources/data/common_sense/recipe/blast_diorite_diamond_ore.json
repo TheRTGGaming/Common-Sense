@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 202,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "common_sense:diorite_diamond_ore"
+  },
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

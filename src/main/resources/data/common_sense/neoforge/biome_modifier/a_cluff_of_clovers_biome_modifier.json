@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "meadow",
+  "features": "common_sense:a_cluff_of_clovers",
+  "step": "underground_ores"
+}

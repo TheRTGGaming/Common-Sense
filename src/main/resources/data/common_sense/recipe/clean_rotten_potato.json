@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "tag": "cs_foods:knifes"
+    },
+    "b": {
+      "item": "minecraft:poisonous_potato"
+    }
+  },
+  "result": {
+    "id": "minecraft:potato",
+    "count": 1
+  }
+}

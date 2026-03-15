@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/strippedburtlogtop",
+    "up": "common_sense:block/strippedburtlogtop",
+    "north": "common_sense:block/strippedburtlogside",
+    "east": "common_sense:block/strippedburtlogside",
+    "south": "common_sense:block/strippedburtlogside",
+    "west": "common_sense:block/strippedburtlogside",
+    "particle": "common_sense:block/strippedburtlogtop"
+  },
+  "render_type": "solid"
+}

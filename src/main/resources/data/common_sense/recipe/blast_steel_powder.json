@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 222,
+  "ingredient": {
+    "item": "common_sense:steel_powder"
+  },
+  "result": {
+    "id": "common_sense:steel_ingot"
+  }
+}

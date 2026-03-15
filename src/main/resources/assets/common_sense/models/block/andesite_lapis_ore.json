@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/stone_1_lapis",
+    "up": "common_sense:block/stone_1_lapis",
+    "north": "common_sense:block/stone_1_lapis",
+    "east": "common_sense:block/stone_1_lapis",
+    "south": "common_sense:block/stone_1_lapis",
+    "west": "common_sense:block/stone_1_lapis",
+    "particle": "common_sense:block/stone_1_lapis"
+  },
+  "render_type": "solid"
+}

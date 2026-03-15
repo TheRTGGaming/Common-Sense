@@ -1,0 +1,10 @@
+{
+  "parent": "common_sense:custom/wood_battle_axe",
+  "textures": {
+    "0": "common_sense:block/logtexure",
+    "1": "common_sense:block/ironblock_1",
+    "3": "common_sense:block/white_wool",
+    "4": "common_sense:block/woodplank",
+    "particle": "common_sense:item/woodbattleaxe"
+  }
+}

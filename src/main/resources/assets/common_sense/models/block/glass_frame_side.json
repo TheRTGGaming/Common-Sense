@@ -1,0 +1,9 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "particle": "common_sense:block/glass_frame",
+    "pane": "common_sense:block/glass_frame",
+    "edge": "common_sense:block/woodplank"
+  },
+  "render_type": "cutout_mipped"
+}

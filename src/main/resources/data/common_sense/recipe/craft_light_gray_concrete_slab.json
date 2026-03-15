@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:light_gray_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:light_gray_concrete_slab",
+    "count": 6
+  }
+}

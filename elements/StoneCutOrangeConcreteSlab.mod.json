@@ -1,0 +1,27 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "Blocks.CONCRETE#1"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.CONCRETE#1"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:OrangeConcreteSlab"
+    },
+    "name": "stone_cut_orange_concrete_slab",
+    "namespace": "mod"
+  }
+}

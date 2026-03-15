@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:bone"
+    },
+    "c": {
+      "item": "common_sense:blank_spawn_egg"
+    },
+    "d": {
+      "item": "minecraft:cooked_beef"
+    },
+    "e": {
+      "item": "minecraft:lead"
+    }
+  },
+  "result": {
+    "id": "minecraft:wolf_spawn_egg",
+    "count": 1
+  }
+}

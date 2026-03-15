@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "common_sense:blocks/obsidian_brick_stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "common_sense:obsidian_brick_stairs"
+        }
+      ]
+    }
+  ]
+}

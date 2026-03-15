@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#7"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "Items.DYE#7"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.DYE#8"
+      },
+      {
+        "value": "CUSTOM:Imageicon"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ResistanceIcon"
+    },
+    "name": "craft_resistance_icon",
+    "namespace": "mod"
+  }
+}

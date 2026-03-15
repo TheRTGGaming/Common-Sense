@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 256,
+  "cookingtime": 1200,
+  "ingredient": {
+    "item": "common_sense:raw_netherite"
+  },
+  "result": {
+    "id": "minecraft:netherite_ingot"
+  }
+}

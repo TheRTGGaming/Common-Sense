@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:andesite_copper_ore",
+    "common_sense:diorite_lapis_ore",
+    "common_sense:niter_ore",
+    "common_sense:netherack_iron_ore",
+    "common_sense:andesite_lapis_ore",
+    "common_sense:deepslate_niter_ore",
+    "common_sense:granite_coal_ore",
+    "common_sense:andesite_iron_ore",
+    "common_sense:deep_slate_sulfur_ore",
+    "common_sense:granite_copper_ore",
+    "common_sense:diorite_coal_ore",
+    "common_sense:sulfur_ore",
+    "common_sense:diorite_gold_ore",
+    "common_sense:andesite_redstone_ore",
+    "common_sense:diorite_copper_ore",
+    "common_sense:granite_gold_ore",
+    "common_sense:granite_lapis_ore",
+    "common_sense:granite_iron_ore",
+    "common_sense:andesite_coal_ore",
+    "common_sense:diorite_iron_ore",
+    "common_sense:granite_redstone_ore",
+    "common_sense:andesite_gold_ore",
+    "common_sense:diorite_redstone_ore",
+    "common_sense:amber_ore",
+    "common_sense:deep_slate_amber_ore"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:inriched_coal_block"
+    }
+  },
+  "result": {
+    "id": "common_sense:double_compressed_coal_block",
+    "count": 9
+  }
+}

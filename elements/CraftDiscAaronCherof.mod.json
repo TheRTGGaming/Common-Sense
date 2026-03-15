@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "CUSTOM:BlankDisc"
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.RECORD_PRECIPICE"
+    },
+    "name": "craft_disc_aaron_cherof",
+    "namespace": "mod"
+  }
+}

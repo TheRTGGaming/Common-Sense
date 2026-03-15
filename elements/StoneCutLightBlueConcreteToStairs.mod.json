@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.CONCRETE#3"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:LightBlueConcreteStairs"
+    },
+    "name": "stone_cut_light_blue_concrete_to_stairs",
+    "namespace": "mod"
+  }
+}

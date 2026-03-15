@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:clover_leaf"
+    }
+  },
+  "result": {
+    "id": "minecraft:green_dye",
+    "count": 1
+  }
+}

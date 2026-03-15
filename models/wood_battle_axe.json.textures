@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "logtexure",
+        "1": "ironblock_1",
+        "3": "white_wool",
+        "4": "woodplank"
+      },
+      "name": "default"
+    }
+  }
+}

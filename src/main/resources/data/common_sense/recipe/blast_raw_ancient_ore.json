@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 6000,
+  "ingredient": {
+    "item": "common_sense:raw_ancient_ore"
+  },
+  "result": {
+    "id": "common_sense:ancient_ingot"
+  }
+}

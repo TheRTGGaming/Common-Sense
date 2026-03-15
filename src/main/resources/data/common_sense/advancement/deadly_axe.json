@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:anchient_battle_axe"
+    },
+    "title": {
+      "translate": "advancements.deadly_axe.title"
+    },
+    "description": {
+      "translate": "advancements.deadly_axe.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "deadly_axe_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:anchient_battle_axe"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 2345
+  },
+  "parent": "common_sense:ancient_world"
+}

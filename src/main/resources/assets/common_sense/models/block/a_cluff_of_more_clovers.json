@@ -1,0 +1,10 @@
+{
+  "parent": "common_sense:custom/cloverpatch2",
+  "textures": {
+    "all": "common_sense:block/better_clover",
+    "particle": "common_sense:block/better_clover",
+    "0": "common_sense:block/3_leaf_clover",
+    "1": "common_sense:block/clover_stem"
+  },
+  "render_type": "cutout"
+}

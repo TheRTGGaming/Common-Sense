@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "b b",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:ancient_ingot"
+    },
+    "b": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "id": "minecraft:end_portal_frame",
+    "count": 1
+  }
+}

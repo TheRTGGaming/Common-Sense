@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/vertical_chain",
+  "textures": {
+    "all": "common_sense:block/chainblock",
+    "particle": "common_sense:block/chainblock",
+    "0": "common_sense:block/chainblock"
+  },
+  "render_type": "cutout"
+}

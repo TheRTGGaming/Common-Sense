@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:steel_pickaxe",
+    "common_sense:ruby_pickaxe",
+    "common_sense:amber_pickaxe",
+    "common_sense:anchient_pickaxe",
+    "common_sense:obsidian_pickaxe",
+    "common_sense:flint_pickaxe"
+  ]
+}

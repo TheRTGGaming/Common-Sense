@@ -1,0 +1,83 @@
+{
+  "_fv": 79,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "stonehelmet",
+    "enableBody": true,
+    "textureBody": "stonechestplate",
+    "enableLeggings": true,
+    "textureLeggings": "stoneleggings",
+    "enableBoots": true,
+    "textureBoots": "stoneboots",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:StoneArmor"
+      }
+    ],
+    "armorTextureFile": "stonearmor_",
+    "helmetName": "Stone Armor Helmet",
+    "bodyName": "Stone Armor Body",
+    "leggingsName": "Stone Armor Leggings",
+    "bootsName": "Stone Armor Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 9,
+    "damageValueHelmet": 1,
+    "damageValueBody": 4,
+    "damageValueLeggings": 3,
+    "damageValueBoots": 1,
+    "enchantability": 4,
+    "toughness": 0.1,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": "block.stone.hit"
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:StoneBrick"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      }
+    ]
+  }
+}

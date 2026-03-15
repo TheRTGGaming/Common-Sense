@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Healing",
+    "splashName": "Splash Potion of Healing",
+    "lingeringName": "Lingering Potion of Healing",
+    "arrowName": "Arrow of Healing",
+    "effects": [
+      {
+        "effect": {
+          "value": "INSTANT_HEALTH"
+        },
+        "duration": 20,
+        "infinite": false,
+        "amplifier": 4,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

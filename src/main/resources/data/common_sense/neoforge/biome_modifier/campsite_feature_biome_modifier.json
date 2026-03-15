@@ -1,0 +1,12 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": [
+    "birch_forest",
+    "forest",
+    "flower_forest",
+    "dark_forest",
+    "taiga"
+  ],
+  "features": "common_sense:campsite_feature",
+  "step": "surface_structures"
+}

@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "2": "nethriteblockofore",
+        "3": "reinforcedblock",
+        "4": "gold_1",
+        "6": "ironblock_1",
+        "8": "white_wool"
+      },
+      "name": "default"
+    }
+  }
+}

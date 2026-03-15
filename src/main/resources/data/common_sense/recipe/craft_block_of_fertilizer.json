@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bone_block"
+    },
+    "b": {
+      "item": "common_sense:fertilizer"
+    },
+    "c": {
+      "item": "minecraft:dragon_breath"
+    },
+    "d": {
+      "item": "minecraft:rooted_dirt"
+    }
+  },
+  "result": {
+    "id": "common_sense:block_of_fertilizer",
+    "count": 1
+  }
+}

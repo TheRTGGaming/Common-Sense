@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SpruceBark"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SpruceBarkBlock"
+    },
+    "name": "craft_spruce_bark_block",
+    "namespace": "mod"
+  }
+}

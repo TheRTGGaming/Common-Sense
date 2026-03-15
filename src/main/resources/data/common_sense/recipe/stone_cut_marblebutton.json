@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "common_sense:marble_block"
+  },
+  "result": {
+    "id": "common_sense:marble_button",
+    "count": 1
+  }
+}

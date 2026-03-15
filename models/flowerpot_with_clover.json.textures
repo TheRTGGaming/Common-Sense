@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "flower_pot_side",
+        "3": "clover_stem",
+        "4": "clover_leaf",
+        "6": "grasstop"
+      },
+      "name": "default"
+    }
+  }
+}

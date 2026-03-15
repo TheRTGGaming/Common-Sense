@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:granite_diamond_ore",
+    "common_sense:granite_emerald_ore",
+    "common_sense:beryllium_ore",
+    "common_sense:andesite_emerald_ore",
+    "common_sense:andesite_diamond_ore",
+    "common_sense:diorite_diamond_ore",
+    "common_sense:ruby_ore",
+    "common_sense:diorite_emerald_ore"
+  ]
+}

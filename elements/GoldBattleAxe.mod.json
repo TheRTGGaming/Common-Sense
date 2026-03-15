@@ -1,0 +1,40 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "goldbattleaxe",
+    "customModelName": "gold_battle_axe:default",
+    "blockingModelName": "Normal blocking",
+    "guiTexture": "",
+    "name": "Gold Battle Axe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:BattleAxes"
+      }
+    ],
+    "efficiency": 12.0,
+    "attackSpeed": 4.0,
+    "enchantability": 22,
+    "damageVsEntity": 6.0,
+    "usageCount": 21,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:EnchantedGoldenIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "STONE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/steelblock",
+    "up": "common_sense:block/steelblock",
+    "north": "common_sense:block/steelblock",
+    "east": "common_sense:block/steelblock",
+    "south": "common_sense:block/steelblock",
+    "west": "common_sense:block/steelblock",
+    "particle": "common_sense:block/steelblock"
+  },
+  "render_type": "solid"
+}

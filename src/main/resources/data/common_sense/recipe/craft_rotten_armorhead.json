@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:rotten_leather"
+    }
+  },
+  "result": {
+    "id": "common_sense:rotten_armor_helmet",
+    "count": 1
+  }
+}

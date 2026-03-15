@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " b ",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:netherite_axe_head"
+    },
+    "b": {
+      "item": "common_sense:netherite_nugget"
+    }
+  },
+  "result": {
+    "id": "common_sense:netherite_battle_axe",
+    "count": 1
+  }
+}

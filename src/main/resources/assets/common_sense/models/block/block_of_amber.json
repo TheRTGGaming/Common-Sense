@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/blockofamber",
+    "up": "common_sense:block/blockofamber",
+    "north": "common_sense:block/blockofamber",
+    "east": "common_sense:block/blockofamber",
+    "south": "common_sense:block/blockofamber",
+    "west": "common_sense:block/blockofamber",
+    "particle": "common_sense:block/blockofamber"
+  },
+  "render_type": "translucent"
+}

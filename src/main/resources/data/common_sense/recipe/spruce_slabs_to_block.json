@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_slab"
+    },
+    "b": {
+      "item": "common_sense:amber"
+    }
+  },
+  "result": {
+    "id": "minecraft:spruce_planks",
+    "count": 1
+  }
+}

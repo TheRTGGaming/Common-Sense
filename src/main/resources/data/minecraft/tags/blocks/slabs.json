@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:oak_slab",
+    "common_sense_forge:marble_slab",
+    "common_sense_forge:obsidian_brick_slab",
+    "common_sense_forge:obsidian_slab"
+  ]
+}

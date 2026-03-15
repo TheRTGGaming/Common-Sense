@@ -1,0 +1,12 @@
+{
+  "parent": "common_sense:custom/quicksteps",
+  "textures": {
+    "all": "common_sense:block/quicksteps",
+    "particle": "common_sense:block/quicksteps",
+    "0": "common_sense:block/logtexure",
+    "1": "common_sense:block/haytop",
+    "3": "common_sense:block/copper_block",
+    "4": "common_sense:block/woodplank"
+  },
+  "render_type": "solid"
+}

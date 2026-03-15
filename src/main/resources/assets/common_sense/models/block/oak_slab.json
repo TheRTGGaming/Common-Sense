@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "common_sense:block/oak_top",
+    "bottom": "common_sense:block/oak_top",
+    "top": "common_sense:block/oak_top",
+    "side": "common_sense:block/oak"
+  },
+  "render_type": "solid"
+}

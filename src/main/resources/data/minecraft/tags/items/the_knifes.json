@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:wood_knife",
+    "common_sense_forge:stoneknife",
+    "common_sense_forge:iron_knife",
+    "common_sense_forge:golden_knife",
+    "common_sense_forge:diamond_knife",
+    "common_sense_forge:netherite_knife",
+    "common_sense_forge:ancient_knife"
+  ]
+}

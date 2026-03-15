@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:cherry_leaves_wall",
+    "common_sense:jungle_leaves_wall",
+    "common_sense:dark_oak_leaves_wall",
+    "common_sense:acacia_leaves_wall",
+    "common_sense:oak_leaves_wall",
+    "common_sense:spruce_leaves_wall",
+    "common_sense:mangrove_leaves_wall",
+    "common_sense:birch_leaves_wall",
+    "common_sense:azalea_leaves_wall",
+    "common_sense:marble_wall",
+    "common_sense:obsidian_wall"
+  ]
+}

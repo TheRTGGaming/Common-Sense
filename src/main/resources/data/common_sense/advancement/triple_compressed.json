@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:triple_compressed_cobble_stone"
+    },
+    "title": {
+      "translate": "advancements.triple_compressed.title"
+    },
+    "description": {
+      "translate": "advancements.triple_compressed.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "triple_compressed_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:triple_compressed_cobble_stone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 3
+  },
+  "parent": "common_sense:double_compressed"
+}

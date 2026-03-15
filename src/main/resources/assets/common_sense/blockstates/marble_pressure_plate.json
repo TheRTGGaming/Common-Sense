@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "common_sense:block/marble_pressure_plate"
+    },
+    "powered=true": {
+      "model": "common_sense:block/marble_pressure_plate_down"
+    }
+  }
+}

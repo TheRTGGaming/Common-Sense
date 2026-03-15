@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_leaves"
+    }
+  },
+  "result": {
+    "id": "common_sense:dark_oak_leaves_wall",
+    "count": 6
+  }
+}

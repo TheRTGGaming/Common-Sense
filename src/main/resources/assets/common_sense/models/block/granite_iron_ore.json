@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/stone_3_iron_ore",
+    "up": "common_sense:block/stone_3_iron_ore",
+    "north": "common_sense:block/stone_3_iron_ore",
+    "east": "common_sense:block/stone_3_iron_ore",
+    "south": "common_sense:block/stone_3_iron_ore",
+    "west": "common_sense:block/stone_3_iron_ore",
+    "particle": "common_sense:block/stone_3_iron_ore"
+  },
+  "render_type": "solid"
+}

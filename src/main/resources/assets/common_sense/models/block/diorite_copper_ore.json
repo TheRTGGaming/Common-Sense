@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/stone_2_copper",
+    "up": "common_sense:block/stone_2_copper",
+    "north": "common_sense:block/stone_2_copper",
+    "east": "common_sense:block/stone_2_copper",
+    "south": "common_sense:block/stone_2_copper",
+    "west": "common_sense:block/stone_2_copper",
+    "particle": "common_sense:block/stone_2_copper"
+  },
+  "render_type": "solid"
+}

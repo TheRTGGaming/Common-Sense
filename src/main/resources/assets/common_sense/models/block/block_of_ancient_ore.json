@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/reinforced_ore_block",
+  "textures": {
+    "all": "common_sense:block/reinforcedblock",
+    "particle": "common_sense:block/reinforcedblock",
+    "0": "common_sense:block/reinforcedblock"
+  },
+  "render_type": "solid"
+}

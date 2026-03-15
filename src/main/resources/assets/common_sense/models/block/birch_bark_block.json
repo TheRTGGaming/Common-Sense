@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/birchbarkblock",
+  "textures": {
+    "all": "common_sense:block/birch_top",
+    "particle": "common_sense:block/birch_top",
+    "1": "common_sense:block/birch"
+  },
+  "render_type": "solid"
+}

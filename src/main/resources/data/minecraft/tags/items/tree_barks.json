@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:oak_bark",
+    "common_sense_forge:acacia_bark",
+    "common_sense_forge:birch_bark",
+    "common_sense_forge:cherry_bark",
+    "common_sense_forge:dark_oak_bark",
+    "common_sense_forge:jungle_bark",
+    "common_sense_forge:mangrove_bark",
+    "common_sense_forge:spruce_bark"
+  ]
+}

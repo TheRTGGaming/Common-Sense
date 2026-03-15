@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "common_sense:block/compressed_tnt"
+    },
+    "facing=east": {
+      "model": "common_sense:block/compressed_tnt",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "common_sense:block/compressed_tnt",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "common_sense:block/compressed_tnt",
+      "y": 270
+    }
+  }
+}

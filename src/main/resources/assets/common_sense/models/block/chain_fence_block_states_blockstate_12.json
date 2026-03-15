@@ -1,0 +1,11 @@
+{
+  "parent": "common_sense:custom/chain_fence_t_nse",
+  "textures": {
+    "all": "common_sense:block/ironblock_1",
+    "particle": "common_sense:block/ironblock_1",
+    "0": "common_sense:block/ironblock_1",
+    "2": "common_sense:block/ironblock_1",
+    "3": "common_sense:block/ironblock_1"
+  },
+  "render_type": "solid"
+}

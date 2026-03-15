@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 10,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "common_sense:granite_lapis_ore"
+  },
+  "result": {
+    "id": "minecraft:lapis_lazuli"
+  }
+}

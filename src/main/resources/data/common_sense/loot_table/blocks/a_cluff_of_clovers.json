@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "common_sense:blocks/a_cluff_of_clovers",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "common_sense:three_leaf_clover"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:three_leaf_clover"
+    }
+  },
+  "result": {
+    "id": "common_sense:clover_leaf",
+    "count": 3
+  }
+}

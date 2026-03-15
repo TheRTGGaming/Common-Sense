@@ -1,0 +1,10 @@
+{
+  "parent": "common_sense:custom/stone_brick_hollow_ladder",
+  "textures": {
+    "all": "common_sense:block/stonebrickpng",
+    "particle": "common_sense:block/stonebrickpng",
+    "1": "common_sense:block/stonebrickpng",
+    "2": "common_sense:block/woodplanks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:chain_ring"
+    }
+  },
+  "result": {
+    "id": "minecraft:chain",
+    "count": 1
+  }
+}

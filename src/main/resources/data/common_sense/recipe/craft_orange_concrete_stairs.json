@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:orange_concrete_stair",
+    "count": 4
+  }
+}

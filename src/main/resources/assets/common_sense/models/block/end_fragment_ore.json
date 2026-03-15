@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/endfragmentore",
+    "up": "common_sense:block/endfragmentore",
+    "north": "common_sense:block/endfragmentore",
+    "east": "common_sense:block/endfragmentore",
+    "south": "common_sense:block/endfragmentore",
+    "west": "common_sense:block/endfragmentore",
+    "particle": "common_sense:block/endfragmentore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SCULK_VEIN"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SCULK_VEIN"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Items.REPEATER"
+      },
+      {
+        "value": "Blocks.OBSERVER"
+      },
+      {
+        "value": "Items.REPEATER"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SCULK_SENSOR"
+    },
+    "name": "craft_sculk_sensor",
+    "namespace": "mod"
+  }
+}

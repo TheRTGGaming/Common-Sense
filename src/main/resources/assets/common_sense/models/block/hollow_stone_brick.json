@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/stone_brick_stripped",
+  "textures": {
+    "all": "common_sense:block/stonebrickpng",
+    "particle": "common_sense:block/stonebrickpng",
+    "0": "common_sense:block/stonebrickpng"
+  },
+  "render_type": "solid"
+}

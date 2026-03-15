@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/netherrackironore",
+    "up": "common_sense:block/netherrackironore",
+    "north": "common_sense:block/netherrackironore",
+    "east": "common_sense:block/netherrackironore",
+    "south": "common_sense:block/netherrackironore",
+    "west": "common_sense:block/netherrackironore",
+    "particle": "common_sense:block/netherrackironore"
+  },
+  "render_type": "solid"
+}

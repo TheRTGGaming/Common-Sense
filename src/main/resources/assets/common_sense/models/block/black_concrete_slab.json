@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "minecraft:block/black_concrete",
+    "bottom": "minecraft:block/black_concrete",
+    "top": "minecraft:block/black_concrete",
+    "side": "minecraft:block/black_concrete"
+  },
+  "render_type": "solid"
+}

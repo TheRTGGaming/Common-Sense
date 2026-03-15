@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/double_compressed_obsidian",
+    "up": "common_sense:block/double_compressed_obsidian",
+    "north": "common_sense:block/double_compressed_obsidian",
+    "east": "common_sense:block/double_compressed_obsidian",
+    "south": "common_sense:block/double_compressed_obsidian",
+    "west": "common_sense:block/double_compressed_obsidian",
+    "particle": "common_sense:block/double_compressed_obsidian"
+  },
+  "render_type": "solid"
+}

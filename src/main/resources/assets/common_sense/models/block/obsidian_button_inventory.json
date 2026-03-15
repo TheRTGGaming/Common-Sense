@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "common_sense:block/obsidian_image",
+    "particle": "common_sense:block/obsidian_image"
+  },
+  "render_type": "solid"
+}

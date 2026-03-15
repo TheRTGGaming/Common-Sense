@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/blockofniter",
+    "up": "common_sense:block/blockofniter",
+    "north": "common_sense:block/blockofniter",
+    "east": "common_sense:block/blockofniter",
+    "south": "common_sense:block/blockofniter",
+    "west": "common_sense:block/blockofniter",
+    "particle": "common_sense:block/blockofniter"
+  },
+  "render_type": "solid"
+}

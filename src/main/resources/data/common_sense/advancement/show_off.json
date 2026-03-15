@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:compressed_netherite_block"
+    },
+    "title": {
+      "translate": "advancements.show_off.title"
+    },
+    "description": {
+      "translate": "advancements.show_off.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "show_off_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:compressed_netherite_block"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000,
+    "loot": [
+      "common_sense:entities/show_off_reward"
+    ]
+  },
+  "parent": "common_sense:compressed"
+}

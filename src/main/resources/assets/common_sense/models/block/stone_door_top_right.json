@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "particle": "common_sense:block/stonebrickdoorbottom",
+    "bottom": "common_sense:block/stonebrickdoorbottom",
+    "top": "common_sense:block/stonebrickdoortop"
+  },
+  "render_type": "cutout_mipped"
+}

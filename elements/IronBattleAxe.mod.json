@@ -1,0 +1,36 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "ironbattleaxe",
+    "customModelName": "iron_battle_axe:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Iron Battle Axe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:BattleAxes"
+      }
+    ],
+    "efficiency": 5.0,
+    "attackSpeed": 3.0,
+    "enchantability": 14,
+    "damageVsEntity": 9.0,
+    "usageCount": 590,
+    "repairItems": [
+      {
+        "value": "Items.IRON_INGOT"
+      }
+    ],
+    "immuneToFire": false,
+    "blockDropsTier": "IRON",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

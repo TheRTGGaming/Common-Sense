@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_block"
+    },
+    "b": {
+      "item": "minecraft:nether_brick"
+    },
+    "c": {
+      "item": "common_sense:blank_disc"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_pigstep",
+    "count": 1
+  }
+}

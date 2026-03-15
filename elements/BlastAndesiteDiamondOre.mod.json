@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 69.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AndesiteDiamondOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.DIAMOND"
+    },
+    "name": "blast_andesite_diamond_ore",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:feces"
+    },
+    "title": {
+      "translate": "advancements.poop_collector.title"
+    },
+    "description": {
+      "translate": "advancements.poop_collector.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "poop_collector_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:feces"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 0,
+    "recipes": [
+      "common_sense:craft_fertilizer"
+    ]
+  },
+  "parent": "common_sense:smarter_then_the_average_villager"
+}

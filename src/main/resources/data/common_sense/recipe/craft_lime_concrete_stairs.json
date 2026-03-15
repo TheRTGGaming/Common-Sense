@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lime_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:lime_concrete_stairs",
+    "count": 4
+  }
+}

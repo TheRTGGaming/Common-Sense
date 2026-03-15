@@ -1,0 +1,9 @@
+{
+  "type": "common_sense:structure_feature",
+  "config": {
+    "structure": "common_sense:ocean_sponge",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:air"
+  }
+}

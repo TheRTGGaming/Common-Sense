@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b": {
+      "item": "minecraft:lead"
+    },
+    "c": {
+      "item": "common_sense:slime_string"
+    }
+  },
+  "result": {
+    "id": "common_sense:elytra_middle",
+    "count": 1
+  }
+}

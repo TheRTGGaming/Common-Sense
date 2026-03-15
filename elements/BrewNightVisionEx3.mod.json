@@ -1,0 +1,26 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:CUSTOM:NightVisionEx2"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.REDSTONE"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:NightVisionEx3"
+    },
+    "name": "brew_night_vision_ex_3",
+    "namespace": "mod"
+  }
+}

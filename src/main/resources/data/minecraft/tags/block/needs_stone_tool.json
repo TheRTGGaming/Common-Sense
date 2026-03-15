@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:iron_bars_gate_open",
+    "common_sense:andesite_copper_ore",
+    "common_sense:triple_compressed_cobble_stone",
+    "common_sense:niter_ore",
+    "common_sense:andesite_lapis_ore",
+    "common_sense:netherack_iron_ore",
+    "common_sense:iron_bars_gate",
+    "common_sense:deepslate_niter_ore",
+    "common_sense:andesite_iron_ore",
+    "common_sense:inriched_coal_block",
+    "common_sense:deep_slate_sulfur_ore",
+    "common_sense:granite_copper_ore",
+    "common_sense:double_compressed_coal_block",
+    "common_sense:sulfur_ore",
+    "common_sense:compressed_coal_block",
+    "common_sense:compressed_cobble_stone",
+    "common_sense:end_fragment_ore",
+    "common_sense:diorite_copper_ore",
+    "common_sense:granite_lapis_ore",
+    "common_sense:granite_iron_ore",
+    "common_sense:hollow_stone_brick_ladder",
+    "common_sense:compressed_netherack",
+    "common_sense:diorite_iron_ore",
+    "common_sense:ancient_ore",
+    "common_sense:quadruple_compressed_cobble_stone",
+    "common_sense:amber_ore"
+  ]
+}

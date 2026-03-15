@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "common_sense:steel_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    },
+    {
+      "item": "common_sense:dirt_ball"
+    }
+  ],
+  "result": {
+    "id": "minecraft:dirt",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "woodplank",
+        "1": "logtexure"
+      },
+      "name": "default"
+    }
+  }
+}

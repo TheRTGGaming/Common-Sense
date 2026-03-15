@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " cd",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "tag": "minecraft:tree_barks"
+    },
+    "c": {
+      "item": "minecraft:stick"
+    },
+    "d": {
+      "item": "common_sense:rock"
+    }
+  },
+  "result": {
+    "id": "common_sense:stone_hammer",
+    "count": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Sulfur"
+      },
+      {
+        "value": "CUSTOM:Niter"
+      },
+      {
+        "value": "CUSTOM:Sulfur"
+      },
+      {
+        "value": "CUSTOM:Niter"
+      },
+      {
+        "value": "Items.COAL#1"
+      },
+      {
+        "value": "CUSTOM:Niter"
+      },
+      {
+        "value": "CUSTOM:Sulfur"
+      },
+      {
+        "value": "CUSTOM:Niter"
+      },
+      {
+        "value": "CUSTOM:Sulfur"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.GUNPOWDER"
+    },
+    "name": "craft_gun_powder",
+    "namespace": "mod"
+  }
+}

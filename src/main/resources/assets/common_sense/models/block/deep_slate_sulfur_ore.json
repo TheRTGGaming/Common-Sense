@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/deepslatesulfurore",
+    "up": "common_sense:block/deepslatesulfurore",
+    "north": "common_sense:block/deepslatesulfurore",
+    "east": "common_sense:block/deepslatesulfurore",
+    "south": "common_sense:block/deepslatesulfurore",
+    "west": "common_sense:block/deepslatesulfurore",
+    "particle": "common_sense:block/deepslatesulfurore"
+  },
+  "render_type": "solid"
+}

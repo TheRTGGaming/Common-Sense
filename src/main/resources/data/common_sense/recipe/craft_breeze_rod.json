@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wind_charge"
+    },
+    "b": {
+      "item": "common_sense:prismarine_stick"
+    }
+  },
+  "result": {
+    "id": "minecraft:breeze_rod",
+    "count": 1
+  }
+}

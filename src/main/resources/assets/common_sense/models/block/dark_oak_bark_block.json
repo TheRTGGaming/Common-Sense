@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/darkoakbarkblock",
+  "textures": {
+    "all": "common_sense:block/darkoak_top",
+    "particle": "common_sense:block/darkoak_top",
+    "1": "common_sense:block/darkoak"
+  },
+  "render_type": "solid"
+}

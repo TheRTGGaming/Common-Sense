@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:cherry_bark"
+    }
+  },
+  "result": {
+    "id": "common_sense:cherry_wood_chestplate",
+    "count": 1
+  }
+}

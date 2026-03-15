@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:quadruple_compressed_cobble_stone"
+    },
+    "title": {
+      "translate": "advancements.quadruple_compressed.title"
+    },
+    "description": {
+      "translate": "advancements.quadruple_compressed.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "quadruple_compressed_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:quadruple_compressed_cobble_stone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 4
+  },
+  "parent": "common_sense:triple_compressed"
+}

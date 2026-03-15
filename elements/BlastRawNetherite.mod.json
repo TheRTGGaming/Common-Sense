@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 256.0,
+    "cookingTime": 1200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawNetherite"
+    },
+    "blastingReturnStack": {
+      "value": "Items.NETHERITE_INGOT"
+    },
+    "name": "blast_raw_netherite",
+    "namespace": "mod"
+  }
+}

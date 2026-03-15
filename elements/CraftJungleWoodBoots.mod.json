@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JungleBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JungleBark"
+      },
+      {
+        "value": "CUSTOM:JungleBark"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:JungleBark"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JungleWood.boots"
+    },
+    "name": "craft_jungle_wood_boots",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    },
+    "b": {
+      "item": "minecraft:saddle"
+    },
+    "c": {
+      "item": "common_sense:blank_spawn_egg"
+    },
+    "d": {
+      "item": "minecraft:leather_horse_armor"
+    }
+  },
+  "result": {
+    "id": "minecraft:horse_spawn_egg",
+    "count": 1
+  }
+}

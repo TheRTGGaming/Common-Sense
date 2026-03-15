@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "tab",
+  "definition": {
+    "name": "Ruby Stuff",
+    "icon": {
+      "value": "CUSTOM:Ruby"
+    },
+    "showSearch": false
+  }
+}

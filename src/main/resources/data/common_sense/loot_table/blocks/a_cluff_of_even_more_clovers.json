@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "common_sense:blocks/a_cluff_of_even_more_clovers",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "common_sense:three_leaf_clover",
+          "functions": [
+            {
+              "count": 3,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

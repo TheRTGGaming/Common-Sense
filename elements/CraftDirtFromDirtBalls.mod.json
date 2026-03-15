@@ -1,0 +1,53 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      {
+        "value": "CUSTOM:DirtBall"
+      }
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      },
+      {
+        "value": "CUSTOM:DirtBall"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.DIRT#0"
+    },
+    "name": "craft_dirt_from_dirt_balls",
+    "namespace": "mod"
+  }
+}

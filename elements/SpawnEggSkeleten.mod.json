@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.ARROW"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SKULL#0"
+      },
+      {
+        "value": "CUSTOM:BlankSpawnEgg"
+      },
+      {
+        "value": "Items.BOW"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.SPAWN_EGG#51"
+    },
+    "name": "spawn_egg_skeleten",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    " a ",
+    "b a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:terracotta"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "minecraft:raiser_armor_trim_smithing_template",
+    "count": 1
+  }
+}

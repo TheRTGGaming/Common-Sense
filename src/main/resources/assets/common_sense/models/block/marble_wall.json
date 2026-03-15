@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "common_sense:block/marble",
+    "particle": "common_sense:block/marble"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk_vein"
+    },
+    "b": {
+      "item": "minecraft:sculk"
+    },
+    "c": {
+      "item": "minecraft:repeater"
+    },
+    "d": {
+      "item": "minecraft:observer"
+    }
+  },
+  "result": {
+    "id": "minecraft:sculk_sensor",
+    "count": 1
+  }
+}

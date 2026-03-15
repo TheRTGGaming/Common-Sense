@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:obsidian_shovel",
+    "common_sense:flint_shovel",
+    "common_sense:amber_shovel",
+    "common_sense:steel_shovel",
+    "common_sense:ruby_shovel",
+    "common_sense:anchient_shovel"
+  ]
+}

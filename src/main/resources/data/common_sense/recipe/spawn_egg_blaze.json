@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:magma_block"
+    },
+    "b": {
+      "item": "minecraft:blaze_rod"
+    },
+    "c": {
+      "item": "common_sense:blank_spawn_egg"
+    }
+  },
+  "result": {
+    "id": "minecraft:blaze_spawn_egg",
+    "count": 1
+  }
+}

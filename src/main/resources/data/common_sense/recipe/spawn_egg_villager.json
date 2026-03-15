@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcd",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chest"
+    },
+    "b": {
+      "item": "common_sense:light_bulb"
+    },
+    "c": {
+      "item": "common_sense:blank_spawn_egg"
+    },
+    "d": {
+      "item": "minecraft:emerald_block"
+    },
+    "e": {
+      "item": "minecraft:red_bed"
+    }
+  },
+  "result": {
+    "id": "minecraft:villager_spawn_egg",
+    "count": 1
+  }
+}

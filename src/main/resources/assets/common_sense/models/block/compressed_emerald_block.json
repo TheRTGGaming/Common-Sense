@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/compressedemerald",
+    "up": "common_sense:block/compressedemerald",
+    "north": "common_sense:block/compressedemerald",
+    "east": "common_sense:block/compressedemerald",
+    "south": "common_sense:block/compressedemerald",
+    "west": "common_sense:block/compressedemerald",
+    "particle": "common_sense:block/compressedemerald"
+  },
+  "render_type": "solid"
+}

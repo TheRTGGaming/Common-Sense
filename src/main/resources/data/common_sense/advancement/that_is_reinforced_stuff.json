@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:reinforced_deepslate"
+    },
+    "title": {
+      "translate": "advancements.that_is_reinforced_stuff.title"
+    },
+    "description": {
+      "translate": "advancements.that_is_reinforced_stuff.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "that_is_reinforced_stuff_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:reinforced_deepslate"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 11
+  },
+  "parent": "common_sense:ancient_world"
+}

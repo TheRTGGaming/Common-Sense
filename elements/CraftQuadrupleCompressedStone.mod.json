@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      },
+      {
+        "value": "CUSTOM:TripleCompressedCobbleStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:QuadrupleCompressedCobbleStone"
+    },
+    "name": "craft_quadruple_compressed_stone",
+    "namespace": "mod"
+  }
+}

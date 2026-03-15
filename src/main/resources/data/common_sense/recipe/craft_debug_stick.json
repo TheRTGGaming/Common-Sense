@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " ab",
+    " cd",
+    "e  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:observer"
+    },
+    "b": {
+      "item": "minecraft:breeze_rod"
+    },
+    "c": {
+      "item": "common_sense:prismarine_stick"
+    },
+    "d": {
+      "item": "minecraft:ender_pearl"
+    },
+    "e": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "id": "minecraft:debug_stick",
+    "count": 1
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_bars"
+    },
+    "b": {
+      "item": "common_sense:spawn_core"
+    },
+    "c": {
+      "item": "minecraft:respawn_anchor"
+    }
+  },
+  "result": {
+    "id": "minecraft:spawner",
+    "count": 1
+  }
+}

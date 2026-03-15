@@ -1,0 +1,14 @@
+{
+  "type": "common_sense:structure_feature",
+  "config": {
+    "structure": "common_sense:campsite",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -3,
+      0
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:CUSTOM:Haste2"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.GLOWSTONE_DUST"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:Haste3"
+    },
+    "name": "brew_haste_3",
+    "namespace": "mod"
+  }
+}

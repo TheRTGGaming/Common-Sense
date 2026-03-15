@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 33.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:AndesiteEmeraldOre"
+    },
+    "blastingReturnStack": {
+      "value": "Items.EMERALD"
+    },
+    "name": "blast_andesite_emerald_ore",
+    "namespace": "mod"
+  }
+}

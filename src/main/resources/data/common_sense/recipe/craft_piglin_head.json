@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:porkchop"
+    },
+    "b": {
+      "item": "minecraft:skeleton_skull"
+    }
+  },
+  "result": {
+    "id": "minecraft:piglin_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:iron_dust",
+    "common_sense:iron_ore_dust",
+    "common_sense:refined_iron_clump",
+    "common_sense:iron_clump_ingot",
+    "common_sense:steel_powder"
+  ]
+}

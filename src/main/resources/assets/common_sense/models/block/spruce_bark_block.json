@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/sprucebarkblock",
+  "textures": {
+    "all": "common_sense:block/spruce_top",
+    "particle": "common_sense:block/spruce_top",
+    "1": "common_sense:block/spruce"
+  },
+  "render_type": "solid"
+}

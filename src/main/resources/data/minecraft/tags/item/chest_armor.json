@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:mangrove_wood_chestplate",
+    "common_sense:oak_wood_chestplate",
+    "common_sense:acacia_wood_chestplate",
+    "common_sense:ancient_armor_chestplate",
+    "common_sense:cherry_wood_chestplate",
+    "common_sense:stone_armortexutre_chestplate",
+    "common_sense:darkoak_wood_chestplate",
+    "common_sense:rotten_armor_chestplate",
+    "common_sense:amber_armor_chestplate",
+    "common_sense:jungle_wood_chestplate",
+    "common_sense:steel_armor_chestplate",
+    "common_sense:spruce_wood_chestplate",
+    "common_sense:birch_wood_chestplate"
+  ]
+}

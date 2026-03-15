@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/ruby_black_stone_ore",
+    "up": "common_sense:block/ruby_black_stone_ore",
+    "north": "common_sense:block/ruby_black_stone_ore_sides",
+    "east": "common_sense:block/ruby_black_stone_ore_sides",
+    "south": "common_sense:block/ruby_black_stone_ore_sides",
+    "west": "common_sense:block/ruby_black_stone_ore_sides",
+    "particle": "common_sense:block/ruby_black_stone_ore"
+  },
+  "render_type": "solid"
+}

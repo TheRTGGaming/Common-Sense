@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:sulfur"
+    }
+  },
+  "result": {
+    "id": "common_sense:block_of_sulfur",
+    "count": 1
+  }
+}

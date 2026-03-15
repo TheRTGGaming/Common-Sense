@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "armortrims",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:terracotta"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "id": "minecraft:wayfinder_armor_trim_smithing_template",
+    "count": 1
+  }
+}

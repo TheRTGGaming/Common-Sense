@@ -1,0 +1,8 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "common_sense:block/marble",
+    "particle": "common_sense:block/marble"
+  },
+  "render_type": "solid"
+}

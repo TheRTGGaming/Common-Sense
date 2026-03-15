@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PaleOakBark"
+      },
+      {
+        "value": "CUSTOM:Souls"
+      },
+      {
+        "value": "CUSTOM:PaleOakBark"
+      },
+      {
+        "value": "Blocks.RESIN_CLUMP"
+      },
+      {
+        "value": "Blocks.STRIPPED_PALE_OAK_LOG"
+      },
+      {
+        "value": "Blocks.RESIN_CLUMP"
+      },
+      {
+        "value": "CUSTOM:PaleOakBark"
+      },
+      {
+        "value": "Blocks.RESIN_CLUMP"
+      },
+      {
+        "value": "CUSTOM:PaleOakBark"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CREAKING_HEART"
+    },
+    "name": "craft_creaking_heart",
+    "namespace": "mod"
+  }
+}

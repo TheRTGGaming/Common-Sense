@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      },
+      {
+        "value": "Blocks.CONCRETE_POWDER#4"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CONCRETE#4"
+    },
+    "name": "yelloe_concrete_modded",
+    "namespace": "mod"
+  }
+}

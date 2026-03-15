@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "5": "compressedcobblestone",
+        "6": "ironblock_1",
+        "7": "stone_texture_je5_be3",
+        "8": "white_wool",
+        "9": "logtexure"
+      },
+      "name": "default"
+    }
+  }
+}

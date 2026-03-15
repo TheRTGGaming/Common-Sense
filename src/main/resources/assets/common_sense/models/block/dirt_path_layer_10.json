@@ -1,0 +1,11 @@
+{
+  "parent": "common_sense:custom/dirt_path_layer_10",
+  "textures": {
+    "all": "minecraft:block/dirt_path_top",
+    "particle": "minecraft:block/dirt_path_top",
+    "0": "minecraft:block/dirt",
+    "1": "minecraft:block/dirt_path_top",
+    "2": "minecraft:block/dirt_path_side"
+  },
+  "render_type": "solid"
+}

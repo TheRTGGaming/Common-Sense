@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:souls"
+    },
+    "title": {
+      "translate": "advancements.soul_eater.title"
+    },
+    "description": {
+      "translate": "advancements.soul_eater.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "soul_eater_0": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "common_sense:souls"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 666,
+    "recipes": [
+      "common_sense:craft_soul_sand",
+      "common_sense:craft_bottle_o_chanting"
+    ]
+  },
+  "parent": "common_sense:witch_doctor"
+}

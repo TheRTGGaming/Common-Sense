@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:copper_ingot"
+    },
+    "b": {
+      "item": "common_sense:stone_brick"
+    },
+    "c": {
+      "item": "common_sense:blank_disc"
+    }
+  },
+  "result": {
+    "id": "minecraft:music_disc_precipice",
+    "count": 1
+  }
+}

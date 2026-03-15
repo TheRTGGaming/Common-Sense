@@ -1,0 +1,11 @@
+{
+  "parent": "common_sense:custom/spongestem",
+  "textures": {
+    "all": "common_sense:block/wet_sponge_file",
+    "particle": "common_sense:block/wet_sponge_file",
+    "0": "common_sense:block/spongestembottem",
+    "1": "common_sense:block/wet_sponge_file",
+    "2": "common_sense:block/spongestem"
+  },
+  "render_type": "solid"
+}

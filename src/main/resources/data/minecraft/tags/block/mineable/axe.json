@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:oak_bark_block",
+    "common_sense:mangrove_bark_block",
+    "common_sense:cherry_bark_block",
+    "common_sense:jungle_bark_block",
+    "common_sense:oak_stairs",
+    "common_sense:spruce_bark_block",
+    "common_sense:stripped_burnt_log",
+    "common_sense:birch_bark_block",
+    "common_sense:quick_step",
+    "common_sense:dark_oak_bark_block",
+    "common_sense:oak_slab",
+    "common_sense:burnt_log",
+    "common_sense:acacia_bark_block"
+  ]
+}

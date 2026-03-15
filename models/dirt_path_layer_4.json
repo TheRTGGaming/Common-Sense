@@ -1,0 +1,24 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "Dirt 16x16",
+		"1": "Dirt_Path_29_JE2_BE2",
+		"2": "Dirt_Path_29_JE3",
+		"particle": "Dirt 16x16"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 4, 16],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 5], "texture": "#2"},
+				"east": {"uv": [0, 1, 16, 5], "texture": "#2"},
+				"south": {"uv": [0, 1, 16, 5], "texture": "#2"},
+				"west": {"uv": [0, 1, 16, 5], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

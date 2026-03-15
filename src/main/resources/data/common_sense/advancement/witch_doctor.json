@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:spawn_core"
+    },
+    "title": {
+      "translate": "advancements.witch_doctor.title"
+    },
+    "description": {
+      "translate": "advancements.witch_doctor.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "witch_doctor_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:spawn_core"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 666
+  },
+  "parent": "common_sense:smarter_then_the_average_villager"
+}

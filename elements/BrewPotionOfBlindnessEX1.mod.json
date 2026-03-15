@@ -1,0 +1,26 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:CUSTOM:Blindness"
+    },
+    "brewingIngredientStack": {
+      "value": "Items.REDSTONE"
+    },
+    "brewingReturnStack": {
+      "value": "POTION:CUSTOM:BlindnessEX1"
+    },
+    "name": "brew_potion_of_blindness_ex_1",
+    "namespace": "mod"
+  }
+}

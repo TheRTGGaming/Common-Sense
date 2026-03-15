@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:pale_oak_bark"
+    },
+    "b": {
+      "item": "common_sense:souls"
+    },
+    "c": {
+      "item": "minecraft:air"
+    },
+    "d": {
+      "item": "minecraft:air"
+    }
+  },
+  "result": {
+    "id": "minecraft:air",
+    "count": 1
+  }
+}

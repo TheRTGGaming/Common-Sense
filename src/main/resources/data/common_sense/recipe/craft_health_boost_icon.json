@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:healing_icon"
+    },
+    "b": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "common_sense:regeneration_icon"
+    }
+  },
+  "result": {
+    "id": "common_sense:health_boost_icon",
+    "count": 1
+  }
+}

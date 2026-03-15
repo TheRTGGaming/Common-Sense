@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "3_leaf_clover",
+        "1": "clover_stem"
+      },
+      "name": "default"
+    }
+  }
+}

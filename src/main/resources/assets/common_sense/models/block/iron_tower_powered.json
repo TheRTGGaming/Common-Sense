@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/metal_tower",
+  "textures": {
+    "all": "common_sense:block/irontower1",
+    "particle": "common_sense:block/irontower1",
+    "1": "common_sense:block/ironblock_1"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " b ",
+    "c  "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:fire_charge"
+    },
+    "b": {
+      "item": "common_sense:launcher"
+    },
+    "c": {
+      "item": "minecraft:blaze_rod"
+    }
+  },
+  "result": {
+    "id": "common_sense:blaze_charger",
+    "count": 1
+  }
+}

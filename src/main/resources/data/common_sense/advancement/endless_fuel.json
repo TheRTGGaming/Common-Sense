@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "id": "common_sense:inriched_coal_block"
+    },
+    "title": {
+      "translate": "advancements.endless_fuel.title"
+    },
+    "description": {
+      "translate": "advancements.endless_fuel.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "endless_fuel_0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "common_sense:inriched_coal_block"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 22
+  },
+  "parent": "common_sense:smarter_then_the_average_villager"
+}

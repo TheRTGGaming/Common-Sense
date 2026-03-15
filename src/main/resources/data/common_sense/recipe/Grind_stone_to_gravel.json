@@ -1,0 +1,6 @@
+{
+  "type": "common_sense:grinder",
+  "ingredient": { "item": "minecraft:stone" },
+  "result": { "item": "minecraft:gravel" },
+  "processing_time": 100
+}

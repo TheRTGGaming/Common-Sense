@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:obsidian_shovel",
+    "common_sense_forge:steel_shovel",
+    "common_sense_forge:anchient_shovel",
+    "common_sense_forge:amber_shovel"
+  ]
+}

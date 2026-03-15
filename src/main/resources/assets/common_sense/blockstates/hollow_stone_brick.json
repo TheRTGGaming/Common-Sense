@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "common_sense:block/hollow_stone_brick"
+    },
+    "facing=east": {
+      "model": "common_sense:block/hollow_stone_brick",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "common_sense:block/hollow_stone_brick",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "common_sense:block/hollow_stone_brick",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "common_sense:block/hollow_stone_brick",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "common_sense:block/hollow_stone_brick",
+      "x": 90
+    }
+  }
+}

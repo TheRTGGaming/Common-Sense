@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:birch_leaves"
+    }
+  },
+  "result": {
+    "id": "common_sense:birch_leaves_wall",
+    "count": 6
+  }
+}

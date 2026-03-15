@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sea_pickle"
+    },
+    "b": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "id": "minecraft:prismarine_crystals",
+    "count": 4
+  }
+}

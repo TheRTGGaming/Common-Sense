@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 1,
+  "cookingtime": 40,
+  "ingredient": {
+    "item": "common_sense:rock"
+  },
+  "result": {
+    "id": "common_sense:stone_brick"
+  }
+}

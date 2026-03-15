@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:inriched_coal_block"
+    }
+  },
+  "result": {
+    "id": "minecraft:diamond_block",
+    "count": 1
+  }
+}

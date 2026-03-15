@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "armortrims",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " c "
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:rock"
+    },
+    "b": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "minecraft:glow_lichen"
+    }
+  },
+  "result": {
+    "id": "minecraft:coast_armor_trim_smithing_template",
+    "count": 1
+  }
+}

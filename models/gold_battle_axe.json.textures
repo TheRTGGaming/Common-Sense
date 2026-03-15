@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "4": "ironblock_1",
+        "5": "white_wool",
+        "7": "logtexure",
+        "10": "gold_1"
+      },
+      "name": "default"
+    }
+  }
+}

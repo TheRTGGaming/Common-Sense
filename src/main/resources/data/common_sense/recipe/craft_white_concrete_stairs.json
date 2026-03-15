@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a ",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:white_concrete_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "feature": "common_sense:a_cluff_of_more_clovers",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 15
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 86
+        },
+        "max_inclusive": {
+          "absolute": 150
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

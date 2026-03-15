@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:red_sand"
+    },
+    "b": {
+      "item": "common_sense:sieve"
+    }
+  },
+  "result": {
+    "id": "minecraft:gold_nugget",
+    "count": 2
+  }
+}

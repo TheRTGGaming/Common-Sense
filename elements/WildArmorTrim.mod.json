@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "armortrims",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rock"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.WILD_ARMOR_TRIM"
+    },
+    "name": "wild_armor_trim",
+    "namespace": "mod"
+  }
+}

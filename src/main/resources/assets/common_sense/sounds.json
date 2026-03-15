@@ -1,0 +1,10 @@
+{
+  "switchoff": {
+    "sounds": [
+      {
+        "name": "common_sense:light_switch_off",
+        "stream": false
+      }
+    ]
+  }
+}

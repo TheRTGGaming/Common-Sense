@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "minecraft:dirt",
+        "1": "minecraft:dirt_path_top",
+        "2": "minecraft:dirt_path_side"
+      }
+    }
+  }
+}

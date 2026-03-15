@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "name": "default",
+      "map": {
+        "0": "compressediron",
+        "2": "ironblock_1",
+        "3": "logtexure",
+        "4": "stone_texture_je5_be3",
+        "5": "woodplank",
+        "6": "sawblade"
+      }
+    }
+  }
+}

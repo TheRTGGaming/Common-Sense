@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/junglebarkblock",
+  "textures": {
+    "all": "common_sense:block/jungle_top",
+    "particle": "common_sense:block/jungle_top",
+    "1": "common_sense:block/jungle"
+  },
+  "render_type": "solid"
+}

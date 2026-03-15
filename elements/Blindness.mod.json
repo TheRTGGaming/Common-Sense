@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Blindness",
+    "splashName": "Splash Potion of Blindness",
+    "lingeringName": "Lingering Potion of Blindness",
+    "arrowName": "Arrow of Blindness",
+    "effects": [
+      {
+        "effect": {
+          "value": "BLINDNESS"
+        },
+        "duration": 800,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

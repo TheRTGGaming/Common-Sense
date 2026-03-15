@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:marble_wall",
+    "common_sense_forge:obsidian_wall",
+    "common_sense_forge:oak_leaves_wall",
+    "common_sense_forge:cherry_leaves_wall",
+    "common_sense_forge:mangrove_leaves_wall",
+    "common_sense_forge:jungle_leaves_wall",
+    "common_sense_forge:birch_leaves_wall",
+    "common_sense_forge:acacia_leaves_wall",
+    "common_sense_forge:dark_oak_leaves_wall",
+    "common_sense_forge:spruce_leaves_wall",
+    "common_sense_forge:azalea_leaves_wall"
+  ]
+}

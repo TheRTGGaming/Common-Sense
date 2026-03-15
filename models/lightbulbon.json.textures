@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "ironblock_1",
+        "1": "yellow_glass"
+      },
+      "name": "default"
+    }
+  }
+}

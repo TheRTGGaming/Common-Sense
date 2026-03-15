@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Blocks.SMALL_AMETHYST_BUD"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Blocks.SMALL_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.AMETHYST_BLOCK"
+      },
+      {
+        "value": "Blocks.SMALL_AMETHYST_BUD"
+      },
+      {
+        "value": "Items.DYE#15"
+      },
+      {
+        "value": "Blocks.SMALL_AMETHYST_BUD"
+      },
+      {
+        "value": "Items.DYE#15"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BUDDING_AMETHYST"
+    },
+    "name": "craft_budding_2",
+    "namespace": "mod"
+  }
+}

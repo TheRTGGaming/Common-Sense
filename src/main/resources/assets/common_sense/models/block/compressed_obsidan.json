@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/compressed4",
+    "up": "common_sense:block/compressed4",
+    "north": "common_sense:block/compressed4",
+    "east": "common_sense:block/compressed4",
+    "south": "common_sense:block/compressed4",
+    "west": "common_sense:block/compressed4",
+    "particle": "common_sense:block/compressed4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:ancient_ingot"
+    },
+    "b": {
+      "item": "minecraft:goat_horn"
+    },
+    "c": {
+      "item": "minecraft:sculk_sensor"
+    },
+    "d": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "id": "minecraft:sculk_shrieker",
+    "count": 1
+  }
+}

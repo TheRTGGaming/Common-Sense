@@ -1,0 +1,9 @@
+{
+  "parent": "common_sense:custom/diamond_battle_axe",
+  "textures": {
+    "3": "common_sense:block/compressed5",
+    "8": "common_sense:block/white_wool",
+    "9": "common_sense:block/logtexure",
+    "particle": "common_sense:item/diamondbattleaxe"
+  }
+}

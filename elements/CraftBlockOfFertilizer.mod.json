@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Fertilizer"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Fertilizer"
+      },
+      {
+        "value": "Items.DRAGON_BREATH"
+      },
+      {
+        "value": "CUSTOM:Fertilizer"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "Blocks.BONE_BLOCK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockOfFertilizer"
+    },
+    "name": "craft_block_of_fertilizer",
+    "namespace": "mod"
+  }
+}

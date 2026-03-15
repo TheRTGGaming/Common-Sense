@@ -1,0 +1,11 @@
+{
+  "_fv": 79,
+  "_type": "painting",
+  "definition": {
+    "texture": "logo.png",
+    "width": 32,
+    "height": 32,
+    "title": "Common Sense Art",
+    "author": "Unknown"
+  }
+}

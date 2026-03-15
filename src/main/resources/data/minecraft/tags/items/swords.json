@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:obsidian_sword",
+    "common_sense_forge:steel_sword",
+    "common_sense_forge:ancient_knife",
+    "common_sense_forge:netherite_knife",
+    "common_sense_forge:diamond_knife",
+    "common_sense_forge:golden_knife",
+    "common_sense_forge:iron_knife",
+    "common_sense_forge:stoneknife",
+    "common_sense_forge:wood_knife",
+    "common_sense_forge:anchient_sword",
+    "common_sense_forge:amber_sword"
+  ]
+}

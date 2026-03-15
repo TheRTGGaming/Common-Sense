@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "common_sense:sieve"
+    },
+    "b": {
+      "item": "common_sense:iron_ore_dust"
+    }
+  },
+  "result": {
+    "id": "common_sense:iron_dust",
+    "count": 1
+  }
+}

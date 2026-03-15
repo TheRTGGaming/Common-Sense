@@ -1,0 +1,12 @@
+{
+  "parent": "common_sense:custom/flowerpot_with_clover",
+  "textures": {
+    "all": "common_sense:block/cloverblock",
+    "particle": "common_sense:block/cloverblock",
+    "1": "common_sense:block/flower_pot_side",
+    "3": "common_sense:block/clover_stem",
+    "4": "common_sense:block/clover_leaf",
+    "6": "common_sense:block/grasstop"
+  },
+  "render_type": "cutout"
+}

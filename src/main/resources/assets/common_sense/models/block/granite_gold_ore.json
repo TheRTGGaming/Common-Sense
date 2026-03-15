@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/stone_3_gold",
+    "up": "common_sense:block/stone_3_gold",
+    "north": "common_sense:block/stone_3_gold",
+    "east": "common_sense:block/stone_3_gold",
+    "south": "common_sense:block/stone_3_gold",
+    "west": "common_sense:block/stone_3_gold",
+    "particle": "common_sense:block/stone_3_gold"
+  },
+  "render_type": "solid"
+}

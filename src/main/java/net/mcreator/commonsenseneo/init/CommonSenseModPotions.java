@@ -1,0 +1,102 @@
+/*
+ *    MCreator note: This file will be REGENERATED on each build.
+ */
+package net.mcreator.commonsenseneo.init;
+
+import net.neoforged.neoforge.registries.DeferredRegister;
+import net.neoforged.neoforge.registries.DeferredHolder;
+
+import net.minecraft.world.item.alchemy.Potion;
+import net.minecraft.world.effect.MobEffects;
+import net.minecraft.world.effect.MobEffectInstance;
+import net.minecraft.core.registries.Registries;
+
+import net.mcreator.commonsenseneo.CommonSenseMod;
+
+public class CommonSenseModPotions {
+	public static final DeferredRegister<Potion> REGISTRY = DeferredRegister.create(Registries.POTION, CommonSenseMod.MODID);
+	public static final DeferredHolder<Potion, Potion> POTION_OF_UNLUCK = REGISTRY.register("potion_of_unluck", () -> new Potion(new MobEffectInstance(MobEffects.UNLUCK, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FIRE_RESISTANCE_EXTENDED_II = REGISTRY.register("fire_resistance_extended_ii", () -> new Potion(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 15600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HARMING_III = REGISTRY.register("harming_iii", () -> new Potion(new MobEffectInstance(MobEffects.HARM, 20, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> HARMING_IV = REGISTRY.register("harming_iv", () -> new Potion(new MobEffectInstance(MobEffects.HARM, 20, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> HARMING_V = REGISTRY.register("harming_v", () -> new Potion(new MobEffectInstance(MobEffects.HARM, 20, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> FIRE_RESISTANCE_EXTENDED_3 = REGISTRY.register("fire_resistance_extended_3", () -> new Potion(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 21600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FIRE_RESISTANCE_EXTENDED_4 = REGISTRY.register("fire_resistance_extended_4", () -> new Potion(new MobEffectInstance(MobEffects.FIRE_RESISTANCE, 27600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HEALING_3 = REGISTRY.register("healing_3", () -> new Potion(new MobEffectInstance(MobEffects.HEAL, 20, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> HEALING_4 = REGISTRY.register("healing_4", () -> new Potion(new MobEffectInstance(MobEffects.HEAL, 20, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> HEALING_5 = REGISTRY.register("healing_5", () -> new Potion(new MobEffectInstance(MobEffects.HEAL, 20, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> INVISIBILITY_EXTENDED_2 = REGISTRY.register("invisibility_extended_2", () -> new Potion(new MobEffectInstance(MobEffects.INVISIBILITY, 15600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> INVISIBILITY_EXTENDED_3 = REGISTRY.register("invisibility_extended_3", () -> new Potion(new MobEffectInstance(MobEffects.INVISIBILITY, 21600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> INVISIBILITY_EXTENDED_4 = REGISTRY.register("invisibility_extended_4", () -> new Potion(new MobEffectInstance(MobEffects.INVISIBILITY, 27600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> INVISIBILITY_EXTENDED_5 = REGISTRY.register("invisibility_extended_5", () -> new Potion(new MobEffectInstance(MobEffects.INVISIBILITY, 36000, 1, false, false)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_2_EXTENDED_1 = REGISTRY.register("leaping_2_extended_1", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 3600, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_2_EXTENDED_2 = REGISTRY.register("leaping_2_extended_2", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 6000, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_3 = REGISTRY.register("leaping_3", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_3_EXTENDED_1 = REGISTRY.register("leaping_3_extended_1", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 3000, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_4 = REGISTRY.register("leaping_4", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_5 = REGISTRY.register("leaping_5", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 1200, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEAPING_4_EXTENDED_1 = REGISTRY.register("leaping_4_extended_1", () -> new Potion(new MobEffectInstance(MobEffects.JUMP, 3000, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION = REGISTRY.register("absorption", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_2 = REGISTRY.register("absorption_2", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 1800, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_EX_1 = REGISTRY.register("absorption_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 6000, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_2_EX_1 = REGISTRY.register("absorption_2_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 3600, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_3 = REGISTRY.register("absorption_3", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_4 = REGISTRY.register("absorption_4", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> ABSORPTION_5 = REGISTRY.register("absorption_5", () -> new Potion(new MobEffectInstance(MobEffects.ABSORPTION, 1200, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> NIGHT_VISION_EX_2 = REGISTRY.register("night_vision_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.NIGHT_VISION, 15600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> NIGHT_VISION_EX_3 = REGISTRY.register("night_vision_ex_3", () -> new Potion(new MobEffectInstance(MobEffects.NIGHT_VISION, 21600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> NIGHT_VISION_EX_4 = REGISTRY.register("night_vision_ex_4", () -> new Potion(new MobEffectInstance(MobEffects.NIGHT_VISION, 27600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> POISON_3 = REGISTRY.register("poison_3", () -> new Potion(new MobEffectInstance(MobEffects.POISON, 300, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> POISON_4 = REGISTRY.register("poison_4", () -> new Potion(new MobEffectInstance(MobEffects.POISON, 300, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> POISON_5 = REGISTRY.register("poison_5", () -> new Potion(new MobEffectInstance(MobEffects.POISON, 300, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> GLOWING_1 = REGISTRY.register("glowing_1", () -> new Potion(new MobEffectInstance(MobEffects.GLOWING, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> GLOWING_EX_1 = REGISTRY.register("glowing_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.GLOWING, 9600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_3 = REGISTRY.register("regeneration_3", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_3_EX_1 = REGISTRY.register("regeneration_3_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 3600, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_4 = REGISTRY.register("regeneration_4", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_4_EX_1 = REGISTRY.register("regeneration_4_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 3600, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_5 = REGISTRY.register("regeneration_5", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 1200, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> REGENERATION_5_EX_1 = REGISTRY.register("regeneration_5_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.REGENERATION, 2400, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> SLOW_FALLING_EX_2 = REGISTRY.register("slow_falling_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.SLOW_FALLING, 7800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> SLOW_FALLING_EX_3 = REGISTRY.register("slow_falling_ex_3", () -> new Potion(new MobEffectInstance(MobEffects.SLOW_FALLING, 10800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> SLOW_FALLING_EX_4 = REGISTRY.register("slow_falling_ex_4", () -> new Potion(new MobEffectInstance(MobEffects.SLOW_FALLING, 13800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_1 = REGISTRY.register("haste_1", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 1800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_1_EX_1 = REGISTRY.register("haste_1_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_1_EX_2 = REGISTRY.register("haste_1_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 9600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_1_EX_3 = REGISTRY.register("haste_1_ex_3", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 15600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_2 = REGISTRY.register("haste_2", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 1200, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_2_EX_1 = REGISTRY.register("haste_2_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 3000, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_2_EX_2 = REGISTRY.register("haste_2_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 5400, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_3 = REGISTRY.register("haste_3", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_3_EX_1 = REGISTRY.register("haste_3_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 2400, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> HASTE_4 = REGISTRY.register("haste_4", () -> new Potion(new MobEffectInstance(MobEffects.DIG_SPEED, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> STRENGTH_2_EX_1 = REGISTRY.register("strength_2_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 3600, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> STRENGTH_3 = REGISTRY.register("strength_3", () -> new Potion(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> STRENGTH_3_EX_1 = REGISTRY.register("strength_3_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 3600, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> STRENGTH_4 = REGISTRY.register("strength_4", () -> new Potion(new MobEffectInstance(MobEffects.DAMAGE_BOOST, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> SWIFTNESS_2_EX_1 = REGISTRY.register("swiftness_2_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 3600, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> SWIFTNESS_3 = REGISTRY.register("swiftness_3", () -> new Potion(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1200, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> SWIFTNESS_3_EX_1 = REGISTRY.register("swiftness_3_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 3600, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> SWIFTNESS_4 = REGISTRY.register("swiftness_4", () -> new Potion(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> SWIFTNESS_5 = REGISTRY.register("swiftness_5", () -> new Potion(new MobEffectInstance(MobEffects.MOVEMENT_SPEED, 1200, 4, false, true)));
+	public static final DeferredHolder<Potion, Potion> WATER_BREATHING_EX_2 = REGISTRY.register("water_breathing_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.WATER_BREATHING, 15600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> WATER_BREATHING_EX_3 = REGISTRY.register("water_breathing_ex_3", () -> new Potion(new MobEffectInstance(MobEffects.WATER_BREATHING, 21600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> WATER_BREATHING_EX_4 = REGISTRY.register("water_breathing_ex_4", () -> new Potion(new MobEffectInstance(MobEffects.WATER_BREATHING, 27600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> WEAKNESS_2 = REGISTRY.register("weakness_2", () -> new Potion(new MobEffectInstance(MobEffects.WEAKNESS, 600, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> WEAKNESS_2_EX_1 = REGISTRY.register("weakness_2_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.WEAKNESS, 1800, 1, false, true)));
+	public static final DeferredHolder<Potion, Potion> WEAKNESS_3 = REGISTRY.register("weakness_3", () -> new Potion(new MobEffectInstance(MobEffects.WEAKNESS, 300, 2, false, true)));
+	public static final DeferredHolder<Potion, Potion> WEAKNESS_4 = REGISTRY.register("weakness_4", () -> new Potion(new MobEffectInstance(MobEffects.WEAKNESS, 200, 3, false, true)));
+	public static final DeferredHolder<Potion, Potion> NAUSEA = REGISTRY.register("nausea", () -> new Potion(new MobEffectInstance(MobEffects.CONFUSION, 600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> WEAKNESS_EX_2 = REGISTRY.register("weakness_ex_2", () -> new Potion(new MobEffectInstance(MobEffects.WEAKNESS, 8600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> POTION_OF_FLIGHT = REGISTRY.register("potion_of_flight", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEVITATION = REGISTRY.register("levitation", () -> new Potion(new MobEffectInstance(MobEffects.LEVITATION, 1600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> LEVITATION_2 = REGISTRY.register("levitation_2", () -> new Potion(new MobEffectInstance(MobEffects.LEVITATION, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_1 = REGISTRY.register("flight_ex_1", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 1800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_2 = REGISTRY.register("flight_ex_2", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 3600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_3 = REGISTRY.register("flight_ex_3", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 9600, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_4 = REGISTRY.register("flight_ex_4", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 18000, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_5 = REGISTRY.register("flight_ex_5", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 36000, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> FLIGHT_EX_6 = REGISTRY.register("flight_ex_6", () -> new Potion(new MobEffectInstance(CommonSenseModMobEffects.FLIGHT, 72000, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> BLINDNESS = REGISTRY.register("blindness", () -> new Potion(new MobEffectInstance(MobEffects.BLINDNESS, 800, 0, false, true)));
+	public static final DeferredHolder<Potion, Potion> BLINDNESS_EX_1 = REGISTRY.register("blindness_ex_1", () -> new Potion(new MobEffectInstance(MobEffects.BLINDNESS, 1800, 0, false, true)));
+}

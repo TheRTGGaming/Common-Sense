@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense_forge:ancient_ore",
+    "common_sense_forge:iron_bars_gate_open",
+    "common_sense_forge:iron_bars_gate",
+    "common_sense_forge:hollow_stone_brick_ladder",
+    "common_sense_forge:granite_lapis_ore",
+    "common_sense_forge:granite_copper_ore",
+    "common_sense_forge:granite_iron_ore",
+    "common_sense_forge:diorite_copper_ore",
+    "common_sense_forge:diorite_iron_ore",
+    "common_sense_forge:andesite_copper_ore",
+    "common_sense_forge:andesite_lapis_ore",
+    "common_sense_forge:andesite_iron_ore",
+    "common_sense_forge:deep_slate_sulfur_ore",
+    "common_sense_forge:deepslate_niter_ore",
+    "common_sense_forge:inriched_coal_block",
+    "common_sense_forge:double_compressed_coal_block",
+    "common_sense_forge:compressed_coal_block",
+    "common_sense_forge:compressed_netherack",
+    "common_sense_forge:quadruple_compressed_cobble_stone",
+    "common_sense_forge:triple_compressed_cobble_stone",
+    "common_sense_forge:compressed_cobble_stone",
+    "common_sense_forge:rock_salt",
+    "common_sense_forge:sulfur_ore",
+    "common_sense_forge:niter_ore",
+    "common_sense_forge:netherack_iron_ore",
+    "common_sense_forge:end_fragment_ore",
+    "common_sense_forge:amber_ore"
+  ]
+}

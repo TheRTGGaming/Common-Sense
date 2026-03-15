@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:shulker_shell"
+    },
+    "b": {
+      "item": "minecraft:egg"
+    },
+    "c": {
+      "item": "minecraft:dragon_breath"
+    },
+    "d": {
+      "item": "minecraft:dragon_head"
+    },
+    "e": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "f": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "id": "minecraft:dragon_egg",
+    "count": 1
+  }
+}

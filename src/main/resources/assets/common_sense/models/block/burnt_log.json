@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "common_sense:block/burntlogtop",
+    "up": "common_sense:block/burntlogtop",
+    "north": "common_sense:block/burntwood",
+    "east": "common_sense:block/burntwood",
+    "south": "common_sense:block/burntwood",
+    "west": "common_sense:block/burntwood",
+    "particle": "common_sense:block/burntlogtop"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.7,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "common_sense:iron_dust"
+  },
+  "result": {
+    "id": "common_sense:iron_clump"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlassBall"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlassBall"
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": "CUSTOM:GlassBall"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GlassBall"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GlassBallOfWater"
+    },
+    "name": "craft_glass_ball_of_water",
+    "namespace": "mod"
+  }
+}

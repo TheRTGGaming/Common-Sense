@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.BRAIN_CORAL"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.BRAIN_CORAL_BLOCK"
+    },
+    "name": "craft_brain_coral_block",
+    "namespace": "mod"
+  }
+}

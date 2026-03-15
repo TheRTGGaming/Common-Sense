@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "common_sense:item/flint_pixaxe"
+  }
+}

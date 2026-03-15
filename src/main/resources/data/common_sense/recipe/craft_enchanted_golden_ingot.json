@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "result": {
+    "id": "common_sense:enchanted_golden_ingot",
+    "count": 4
+  }
+}

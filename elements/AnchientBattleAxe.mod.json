@@ -1,0 +1,40 @@
+{
+  "_fv": 79,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "ancientbattleaxe",
+    "customModelName": "reinforced_battle_axe:default",
+    "blockingModelName": "Normal blocking",
+    "guiTexture": "",
+    "name": "Anchient Battle Axe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:BattleAxes"
+      }
+    ],
+    "efficiency": 13.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 15.0,
+    "usageCount": 5666,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [
+      {
+        "value": "CUSTOM:AncientIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "blockDropsTier": "NETHERITE",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

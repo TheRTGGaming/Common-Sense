@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      },
+      {
+        "value": "CUSTOM:CompressedCoalBlock"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DoubleCompressedCoalBlock"
+    },
+    "name": "craft_double_compressed_coal_block",
+    "namespace": "mod"
+  }
+}

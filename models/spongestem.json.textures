@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "spongestembottem",
+        "1": "wet_sponge_file",
+        "2": "spongestem"
+      },
+      "name": "default"
+    }
+  }
+}

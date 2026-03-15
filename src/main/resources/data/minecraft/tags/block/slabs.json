@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "common_sense:obsidian_slab",
+    "common_sense:cyan_concrete_slab",
+    "common_sense:pink_concrete_slab",
+    "common_sense:light_blue_concrete_slab",
+    "common_sense:brown_concrete_slab",
+    "common_sense:yellow_concrete_slab",
+    "common_sense:light_gray_concrete_slab",
+    "common_sense:black_concrete_slab",
+    "common_sense:marble_slab",
+    "common_sense:green_concrete_slab",
+    "common_sense:blue_concrete_slab",
+    "common_sense:gray_concrete_slab",
+    "common_sense:magenta_concrete_slab",
+    "common_sense:white_concrete_slab",
+    "common_sense:orange_concrete_slab",
+    "common_sense:oak_slab",
+    "common_sense:red_concrete_slab",
+    "common_sense:obsidian_brick_slab",
+    "common_sense:purple_concrete_slab",
+    "common_sense:lime_concrete_slab"
+  ]
+}

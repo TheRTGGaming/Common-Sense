@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:coal_block"
+    }
+  },
+  "result": {
+    "id": "common_sense:compressed_coal_block",
+    "count": 1
+  }
+}

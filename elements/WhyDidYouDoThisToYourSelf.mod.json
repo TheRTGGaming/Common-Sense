@@ -1,0 +1,24 @@
+{
+  "_fv": 79,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Why Did You Do This To Your Self",
+    "achievementDescription": "Good Luck Getting that block back...",
+    "achievementIcon": {
+      "value": "CUSTOM:AnchientPickaxe"
+    },
+    "background": "advancement.png",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": true,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardXP": 111,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "CUSTOM:Unbreakable"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"block_placed\" x=\"56\" y=\"27\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:TripleCompressedObsidan</field></block></value></block></next></block></xml>"
+  }
+}

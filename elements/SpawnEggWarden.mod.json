@@ -1,0 +1,49 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SCULK_SENSOR"
+      },
+      {
+        "value": "Blocks.CARVED_PUMPKIN"
+      },
+      {
+        "value": "Blocks.SCULK_SENSOR"
+      },
+      {
+        "value": "Blocks.SCULK_SHRIEKER"
+      },
+      {
+        "value": "CUSTOM:BlankSpawnEgg"
+      },
+      {
+        "value": "CUSTOM:Souls"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Blocks.SCULK_CATALYST"
+      },
+      {
+        "value": "Blocks.SCULK"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.WARDEN_SPAWN_EGG"
+    },
+    "name": "spawn_egg_warden",
+    "namespace": "mod"
+  }
+}

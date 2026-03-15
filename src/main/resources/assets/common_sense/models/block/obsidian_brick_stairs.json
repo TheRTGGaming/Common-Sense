@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "common_sense:block/obsidianbrick",
+    "bottom": "common_sense:block/obsidianbrick",
+    "top": "common_sense:block/obsidianbrick",
+    "side": "common_sense:block/obsidianbrick"
+  },
+  "render_type": "solid"
+}

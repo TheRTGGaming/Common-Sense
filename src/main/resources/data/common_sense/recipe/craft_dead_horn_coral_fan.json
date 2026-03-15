@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dead_horn_coral"
+    }
+  },
+  "result": {
+    "id": "minecraft:dead_horn_coral_fan",
+    "count": 2
+  }
+}

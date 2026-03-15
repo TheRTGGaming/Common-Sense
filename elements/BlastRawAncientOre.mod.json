@@ -1,0 +1,23 @@
+{
+  "_fv": 79,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 6000,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:RawAncientOre"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:AncientIngot"
+    },
+    "name": "blast_raw_ancient_ore",
+    "namespace": "mod"
+  }
+}

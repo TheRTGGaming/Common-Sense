@@ -1,0 +1,22 @@
+{
+  "_fv": 79,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion of Night Vision",
+    "splashName": "Splash Potion of Night Vision",
+    "lingeringName": "Lingering Potion of Night Vision",
+    "arrowName": "Arrow of Night Vision",
+    "effects": [
+      {
+        "effect": {
+          "value": "NIGHT_VISION"
+        },
+        "duration": 15600,
+        "infinite": false,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

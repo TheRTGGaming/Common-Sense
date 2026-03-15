@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:orange_concrete"
+    }
+  },
+  "result": {
+    "id": "common_sense:orange_concrete_slab",
+    "count": 6
+  }
+}

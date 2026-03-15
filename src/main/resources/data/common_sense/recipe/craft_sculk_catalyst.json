@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:sculk"
+    },
+    "b": {
+      "item": "common_sense:ancient_ingot"
+    },
+    "c": {
+      "item": "common_sense:spawn_core"
+    }
+  },
+  "result": {
+    "id": "minecraft:sculk_catalyst",
+    "count": 1
+  }
+}
